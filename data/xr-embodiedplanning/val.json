@@ -1,0 +1,3991 @@
+[
+    {
+        "question": "### human: I want to set up the room for a comfortable reading session. I have done these things: 1. Picked a book from the bookshelf or cabinet. 2. Sat down in a comfortable spot. 3. Turned on one of the lamps.. What should I do next?",
+        "answers": [
+            "4. Adjust the lamp to ensure proper lighting on the book.",
+            "5. Begin reading and enjoy your session."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub012-sub013-sub014-sub019"
+    },
+    {
+        "question": "### human: I want to set up a reading corner in the artistic room. What should I do?",
+        "answers": [
+            "1. Go to the room adorned with three picturesque images.",
+            "2. Position a comfortable chair near the pictures.",
+            "3. Place a small table next to the chair.",
+            "4. Add a lamp on the table for adequate lighting.",
+            "5. Step back and ensure the setup is cozy and inviting."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub008-sub009-sub010-sub011-sub015"
+    },
+    {
+        "question": "### human: I want to organize a study area. I have done these things: 1. Place the chair at the desk. What should I do next?",
+        "answers": [
+            "2. Arrange the two lamps to provide optimal lighting on the desk.",
+            "3. Organize the four decorations neatly around the desk.",
+            "4. Make sure the area is tidy and free of clutter.",
+            "5. Check that the radiator is operating properly for warmth."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub008-sub009-sub010-sub011-sub015"
+    },
+    {
+        "question": "### human: I want to set up a calming space in the bathroom. I have done these things: 1. Arrange the three towels neatly. What should I do next?",
+        "answers": [
+            "2. Place the faucet and shower head in a functional position.",
+            "3. Arrange the four pictures in a visually pleasing manner.",
+            "4. Ensure the clock is visible and functional.",
+            "5. Make sure the shower area is clean and ready for use."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub008-sub009-sub010-sub011-sub015"
+    },
+    {
+        "question": "### human: I need to tidy up the cozy and artistic room. What should I do?",
+        "answers": [
+            "1. Go to the room with four storage boxes and a guitar.",
+            "2. Collect any items lying around and place them in the storage boxes.",
+            "3. Organize the ten books on available shelves or flat surfaces.",
+            "4. Arrange the ten pictures on the walls in an artistic manner.",
+            "5. Make sure the two boards are positioned correctly and free of clutter."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub008-sub009-sub010-sub011-sub015"
+    },
+    {
+        "question": "### human: I want to organize the storage box in the small room. What should I do?",
+        "answers": [
+            "1. Go to the room with one storage box.",
+            "2. Open the storage box.",
+            "3. Sort through the contents, discarding any unnecessary items.",
+            "4. Organize the remaining items neatly inside the box.",
+            "5. Close the storage box and ensure it is properly positioned."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub008-sub009-sub010-sub011-sub015"
+    },
+    {
+        "question": "### human: I would like to organize items on the kitchen shelves. What should I do?",
+        "answers": [
+            "1. Go to the shelves in the kitchen.",
+            "2. Pick up each item one by one.",
+            "3. Arrange the items on the shelves in an organized manner.",
+            "4. Repeat until all items are neatly arranged.",
+            "5. Step back and admire the organized shelves."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub002-sub003-sub004-sub016"
+    },
+    {
+        "question": "### human: I want to read a book in a cozy setting. What should I do?",
+        "answers": [
+            "1. Go to the cozy room with the bookshelf.",
+            "2. Choose a book from the bookshelf.",
+            "3. Sit down on the couch near the bookshelf.",
+            "4. Begin reading the book in the cozy environment."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub002-sub003-sub004-sub016"
+    },
+    {
+        "question": "### human: I want to decorate the room to make it look more aesthetically pleasing. I have done these things: 1. Choose decorations from the shelf. What should I do next?",
+        "answers": [
+            "2. Place the decorations on available surfaces like tables and shelves.",
+            "3. Adjust the placement until you are satisfied with the appearance."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub002-sub003-sub004-sub016"
+    },
+    {
+        "question": "### human: I want to organize my storage space. I have done these things: 1. Gather all storage boxes. 2. Gather all bags. What should I do next?",
+        "answers": [
+            "3. Place the storage boxes in a designated area in the storage room.",
+            "4. Stack the bags neatly alongside or on top of the storage boxes."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub002-sub003-sub004-sub016"
+    },
+    {
+        "question": "### human: I'm preparing a meal in the kitchen. I have done these things: 1. Taken out the cooking pans. 2. Found the necessary ingredients. 3. Positioned everything on the counter. What should I do next?",
+        "answers": [
+            "4. Use the stove to start cooking with the ingredients in the cooking pans.",
+            "5. As you cook, use the utensils and appliances available in the kitchen."
+        ],
+        "scan_id": "00823-7MXmsvcQjpJ",
+        "room_id": "sub002-sub003-sub004-sub016"
+    },
+    {
+        "question": "### human: I want to admire the artwork in the room with four chairs. What should I do?",
+        "answers": [
+            "1. Go to the room with four chairs.",
+            "2. Position yourself in front of the pictures.",
+            "3. Observe each picture closely to appreciate the details.",
+            "4. Take your time to enjoy each piece of artwork."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub003-sub004-sub005-sub009-sub020"
+    },
+    {
+        "question": "### human: I want to make the room with 10 pillows more organized. What should I do?",
+        "answers": [
+            "1. Go to the room with 10 pillows.",
+            "2. Gather all the pillows in one central location.",
+            "3. Arrange the pillows neatly on the ottomans and other suitable surfaces."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub003-sub004-sub005-sub009-sub020"
+    },
+    {
+        "question": "### human: I want to read in a quiet space. I have done these things: 1. found a single chair.. what should I do next?",
+        "answers": [
+            "Choose a book from the collection of 16 books."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub003-sub004-sub005-sub009-sub020"
+    },
+    {
+        "question": "### human: I want to make use of shelves in the room with three pictures. What should I do?",
+        "answers": [
+            "1. Go to the room with three pictures.",
+            "2. Place items on the two shelves in an organized manner.",
+            "3. Ensure that items are displayed for easy access and view."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub003-sub004-sub005-sub009-sub020"
+    },
+    {
+        "question": "### human: I want to enjoy the comfort of the room with three vases. I have done these things: 1. sat on the couch.. what should I do next?",
+        "answers": [
+            "Relax and appreciate the overall ambiance of the room."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub003-sub004-sub005-sub009-sub020"
+    },
+    {
+        "question": "### human: I want to clean the house step by step. what should i do?",
+        "answers": [
+            "1. Go to the room with the vacuum cleaner.",
+            "2. Pick up the vacuum cleaner.",
+            "3. Use the vacuum cleaner to clean the floor in that room."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub012-sub014-sub015-sub017-sub021"
+    },
+    {
+        "question": "### human: I want to clean the house step by step. I have done these things: 1. Go to the room with the vacuum cleaner. 2. Pick up the vacuum cleaner. 3. Use the vacuum cleaner to clean the floor in that room. what should i do next?",
+        "answers": [
+            "4. Go to the room with four brooms and a basket."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub012-sub014-sub015-sub017-sub021"
+    },
+    {
+        "question": "### human: I want to clean the house step by step. I have done these things: 1. Go to the room with the vacuum cleaner. 2. Pick up the vacuum cleaner. 3. Use the vacuum cleaner to clean the floor in that room. 4. Go to the room with four brooms and a basket. what should i do next?",
+        "answers": [
+            "5. Take one of the brooms.",
+            "6. Sweep the floor in the room with the brooms and basket."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub012-sub014-sub015-sub017-sub021"
+    },
+    {
+        "question": "### human: I want to clean the house step by step. I have done these things: 1. Go to the room with the vacuum cleaner. 2. Pick up the vacuum cleaner. 3. Use the vacuum cleaner to clean the floor in that room. 4. Go to the room with four brooms and a basket. 5. Take one of the brooms. 6. Sweep the floor in the room with the brooms and basket. what should i do next?",
+        "answers": [
+            "7. Go to the room with the container, two towels, and a mirror."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub012-sub014-sub015-sub017-sub021"
+    },
+    {
+        "question": "### human: I want to clean the house step by step. I have done these things: 1. Go to the room with the vacuum cleaner. 2. Pick up the vacuum cleaner. 3. Use the vacuum cleaner to clean the floor in that room. 4. Go to the room with four brooms and a basket. 5. Take one of the brooms. 6. Sweep the floor in the room with the brooms and basket. 7. Go to the room with the container, two towels, and a mirror. what should i do next?",
+        "answers": [
+            "8. Arrange the towels neatly.",
+            "9. Ensure the container is closed properly.",
+            "10. Use a cloth to clean the mirror."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub012-sub014-sub015-sub017-sub021"
+    },
+    {
+        "question": "### human: i want to organize the stuffed animals in the cozy room. what should i do?",
+        "answers": [
+            "1. go to the cozy room",
+            "2. gather all 5 stuffed animals from the bed",
+            "3. place each stuffed animal neatly on the bed",
+            "4. step back to make sure they are arranged neatly"
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub008-sub010-sub011-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to add more pictures to the decorative room. i have done these things: 1. select the pictures.. what should i do next?",
+        "answers": [
+            "go to the decorative room with the pictures.",
+            "hang the pictures on the walls, ensuring they are well-spaced.",
+            "arrange them in a way that complements existing decorations.",
+            "step back to admire the updated decor."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub008-sub010-sub011-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to clean and organize the practical room. what should i do?",
+        "answers": [
+            "1. go to the practical room",
+            "2. gather the 4 soap bottles and align them neatly",
+            "3. stack or arrange the 4 boxes in an organized manner",
+            "4. clean the mirror"
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub008-sub010-sub011-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to create a cozy reading nook in the minimalistic room. i have done these things: 1. selected a comfortable chair.. what should i do next?",
+        "answers": [
+            "place the chair in the minimalistic room.",
+            "position the lamp beside the chair to provide good lighting.",
+            "add a small table next to the chair for placing books.",
+            "arrange a few books on the table for easy access."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub008-sub010-sub011-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to decorate the comforting room. i have done these things: 1. gathered two more tissue boxes.. what should i do next?",
+        "answers": [
+            "place the additional tissue boxes where they are easily accessible.",
+            "arrange the pictures on the walls to create a visually pleasing layout.",
+            "ensure that the tissue boxes and pictures are positioned neatly."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub008-sub010-sub011-sub013-sub016"
+    },
+    {
+        "question": "### human: I want to set up the dining table for dinner. What should I do?",
+        "answers": [
+            "1. Go to the room with the dining table and chairs.",
+            "2. Place plates and cutlery at each seat on the dining table.",
+            "3. Set up glasses and napkins beside each plate.",
+            "4. Arrange the food containers in the center of the table.",
+            "5. Place any decorations like flowers or a centerpiece in the middle of the table."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub002-sub004-sub012-sub014-sub021"
+    },
+    {
+        "question": "### human: I want to create a cozy seating area in the room with ottomans. I have arranged the ottomans. What should I do next?",
+        "answers": [
+            "1. Place the pillows on and around the ottomans to create a comfortable atmosphere.",
+            "2. Arrange the decorations and pictures to enhance the room's style."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub002-sub004-sub012-sub014-sub021"
+    },
+    {
+        "question": "### human: I want to organize the cleaning supplies. I have gathered the brooms. What should I do next?",
+        "answers": [
+            "1. Place the brooms neatly in one corner of the room.",
+            "2. Put the basket near the brooms for storing additional cleaning supplies."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub002-sub004-sub012-sub014-sub021"
+    },
+    {
+        "question": "### human: I want to prepare the bathroom for guests. I have placed fresh towels. What should I do next?",
+        "answers": [
+            "1. Ensure the container is organized and accessible.",
+            "2. Wipe the mirror clean for a clear reflection."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub002-sub004-sub012-sub014-sub021"
+    },
+    {
+        "question": "### human: I want to decorate the living area with pictures and decorations. I have hung the pictures. What should I do next?",
+        "answers": [
+            "1. Place the decorations in strategic locations to enhance the room's style.",
+            "2. Arrange the pillows on the chair and ottomans to add comfort and coziness."
+        ],
+        "scan_id": "00009-vLpv2VX547B",
+        "room_id": "sub002-sub004-sub012-sub014-sub021"
+    },
+    {
+        "question": "### human: I want to organize the books on the table. What should I do?",
+        "answers": [
+            "1. Go to the table",
+            "2. Pick up the books one by one",
+            "3. Arrange the books on the table in a neat and organized manner",
+            "4. Step away from the table to admire the organized books"
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub003-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up the room for a meeting. I have done these things: 1. place the tables in a row. What should I do next?",
+        "answers": [
+            "2. Place the chairs behind each table."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub003-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up the room for a meeting. I have done these things: 1. place the tables in a row. 2. place the chairs behind each table. 3. place the storage boxes neatly by the wall. What should I do next?",
+        "answers": [
+            "4. Arrange the remaining boxes and suitcases to maximize space."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub003-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to store the toiletries in the bathroom. What should I do?",
+        "answers": [
+            "1. Go to the bathroom with the shelves.",
+            "2. Place the toiletries on the shelves one by one.",
+            "3. Arrange the toiletries in an organized manner on the shelves."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub003-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to store additional items in the organized room. I have done these things: 1. place the storage boxes in the designated area. What should I do next?",
+        "answers": [
+            "2. Arrange the hoses and pipes neatly near the storage boxes.",
+            "3. Place the buckets near the board for easy access."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub003-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to organize the suitcases in the room. what should i do?",
+        "answers": [
+            "1. go to the suitcases.",
+            "2. pick up each suitcase one by one.",
+            "3. place each suitcase in a designated area."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to organize the suitcases in the room. i have done these things: 1. go to the suitcases. 2. pick up each suitcase one by one. what should i do next?",
+        "answers": [
+            "place each suitcase in a designated area."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to fill the shelf in the bathroom with items. what should i do?",
+        "answers": [
+            "1. go to the shelves.",
+            "2. pick up the toiletries or other bathroom essentials.",
+            "3. place each item on the shelves."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to fill the shelf in the bathroom with items. i have done these things: 1. go to the shelves. 2. pick up the toiletries or other bathroom essentials. what should i do next?",
+        "answers": [
+            "place each item on the shelves."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to clean up the room with the single faucet and showers. what should i do?",
+        "answers": [
+            "1. pick up any items or debris from the floor.",
+            "2. wipe down the faucet.",
+            "3. clean the shower areas.",
+            "4. organize the shelves if needed."
+        ],
+        "scan_id": "00541-FnDDfrBZPhh",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to ensure the Roomba cleans efficiently. What should I do?",
+        "answers": [
+            "1. Ensure that all objects on the floor are picked up and put away.",
+            "2. Move any chairs or obstacles out of the Roomba's path.",
+            "3. Turn on the Roomba."
+        ],
+        "scan_id": "00853-5cdEh9F2hJL",
+        "room_id": "sub002-sub004-sub005-sub008-sub009"
+    },
+    {
+        "question": "### human: I want to set up a neat and functional space in the organized room. I have done these things: 1. put the storage boxes in place. What should I do next?",
+        "answers": [
+            "2. arrange the shoes neatly on the shelf.",
+            "3. hang the towels by the sink.",
+            "4. place the bathroom vanities on the counter."
+        ],
+        "scan_id": "00853-5cdEh9F2hJL",
+        "room_id": "sub002-sub004-sub005-sub008-sub009"
+    },
+    {
+        "question": "### human: I want to create a cozy reading corner in the elegant room. What should I do?",
+        "answers": [
+            "1. place the pillows on the rug.",
+            "2. set up a lamp next to the reading spot.",
+            "3. position the books within easy reach."
+        ],
+        "scan_id": "00853-5cdEh9F2hJL",
+        "room_id": "sub002-sub004-sub005-sub008-sub009"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading corner in the elegant room. I have done these things: 1. placed the pillows on the rug. What should I do next?",
+        "answers": [
+            "2. set up a lamp next to the reading spot.",
+            "3. position the books within easy reach."
+        ],
+        "scan_id": "00853-5cdEh9F2hJL",
+        "room_id": "sub002-sub004-sub005-sub008-sub009"
+    },
+    {
+        "question": "### human: I want to decorate and freshen up the shared bathroom. What should I do?",
+        "answers": [
+            "1. place the potted plant in a visible area.",
+            "2. ensure the toilets are clean.",
+            "3. check that the mirrors are spotless."
+        ],
+        "scan_id": "00853-5cdEh9F2hJL",
+        "room_id": "sub002-sub004-sub005-sub008-sub009"
+    },
+    {
+        "question": "### human: I want to play a game of pool. What should I do?",
+        "answers": [
+            "1. Go to the room with the pool table.",
+            "2. Pick up the solitary ball from the pool table.",
+            "3. Position the ball at the starting point on the pool table.",
+            "4. Use the pool cue to strike the ball and begin the game.",
+            "5. Enjoy playing the game of pool."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub021-sub022"
+    },
+    {
+        "question": "### human: I want to relax and read a magazine. I have done these things: 1. Go to the room with the pool table.. What should I do next?",
+        "answers": [
+            "2. Pick up the magazine from the room.",
+            "3. Sit down in a comfortable spot.",
+            "4. Begin reading the magazine."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub021-sub022"
+    },
+    {
+        "question": "### human: I want to admire the pictures on the wall. I have done these things: 1. Go to the room with 8 pictures.. What should I do next?",
+        "answers": [
+            "2. Walk around the room to view each picture.",
+            "3. Take your time to appreciate the artistry of each picture."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub021-sub022"
+    },
+    {
+        "question": "### human: I want to arrange the pillows. I have done these things: 1. Go to the room with 6 pillows.. What should I do next?",
+        "answers": [
+            "2. Pick up the pillows one by one.",
+            "3. Arrange the pillows neatly on a surface (e.g., couch, bed).",
+            "4. Step back and make sure the pillows are arranged to your liking."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub021-sub022"
+    },
+    {
+        "question": "### human: I want to rest and relax. I have done these things: 1. Go to the room with 2 armchairs.. What should I do next?",
+        "answers": [
+            "2. Sit down in one of the armchairs.",
+            "3. Take a deep breath and close your eyes if desired.",
+            "4. Enjoy your time relaxing in the comfortable armchair."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub021-sub022"
+    },
+    {
+        "question": "### human: I want to wash my hands. What should I do?",
+        "answers": [
+            "1. Go to the room with the two sinks.",
+            "2. Turn on the water at one of the sinks.",
+            "3. Place your hands under the running water.",
+            "4. Use soap if available.",
+            "5. Rinse your hands thoroughly.",
+            "6. Turn off the water."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub006-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to prepare a meal. What should I do?",
+        "answers": [
+            "1. Go to the room with two counters and a sink.",
+            "2. Gather the necessary ingredients and utensils.",
+            "3. Use the counters to prepare your ingredients.",
+            "4. Wash any ingredients that require cleaning in the sink.",
+            "5. Begin cooking the meal using the counter space for preparation."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub006-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to store some items. What should I do?",
+        "answers": [
+            "1. Go to the room with five storage boxes.",
+            "2. Choose a storage box to place your items in.",
+            "3. Open the chosen storage box.",
+            "4. Place your items inside the storage box.",
+            "5. Close the storage box."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub006-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I have washed my hands. What should I do next?",
+        "answers": [
+            "Dry your hands using a towel if available."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub006-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I have stored my items in the storage boxes. What should I do next?",
+        "answers": [
+            "Ensure the storage boxes are closed properly to keep the items secure."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub006-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: i want to set up a comfortable reading nook. what should i do?",
+        "answers": [
+            "1. Go to the room with the window and the potted plant.",
+            "2. Arrange the two chairs near the window for natural light.",
+            "3. Place the pillow on one of the chairs for added comfort.",
+            "4. Organize the six books on the floor or near the chairs for easy access.",
+            "5. Step back to ensure that the space is cozy and inviting."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i want to set up a comfortable reading nook. i have done these things: 1. Go to the room with the window and the potted plant. 2. Arrange the two chairs near the window for natural light. what should i do next?",
+        "answers": [
+            "3. Place the pillow on one of the chairs for added comfort."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i want to set up a comfortable reading nook. i have done these things: 1. Go to the room with the window and the potted plant. 2. Arrange the two chairs near the window for natural light. 3. Place the pillow on one of the chairs for added comfort. what should i do next?",
+        "answers": [
+            "4. Organize the six books on the floor or near the chairs for easy access."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to organize a storage room. what should i do?",
+        "answers": [
+            "1. Go to the room with the solitary cabinet.",
+            "2. Open the cabinet doors to see what's inside.",
+            "3. Organize items within the cabinet, placing what you need most often at the front.",
+            "4. Close the cabinet doors."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to organize a storage room. i have done these things:  1. Go to the room with the solitary cabinet. 2. Open the cabinet doors to see what's inside. what should i do next?",
+        "answers": [
+            "3. Organize items within the cabinet, placing what you need most often at the front."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to clean up a space. what should i do?",
+        "answers": [
+            "1. Go to the room with the solitary sink.",
+            "2. Turn on the tap to get water.",
+            "3. Scrub and clean the sink area thoroughly.",
+            "4. Wipe down the counters to remove any dirt and dust."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to clean up a space. i have done these things: 1. Go to the room with the solitary sink. what should i do next?",
+        "answers": [
+            "2. Turn on the tap to get water."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to clean up a space. i have done these things: 1. Go to the room with the solitary sink. 2. Turn on the tap to get water. what should i do next?",
+        "answers": [
+            "3. Scrub and clean the sink area thoroughly."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to set up proper ventilation in the space. what should i do?",
+        "answers": [
+            "1. Go to the room with the vent and the lamp.",
+            "2. Ensure that the vent is open and clean.",
+            "3. Turn on the lamp for better visibility while checking the vent.",
+            "4. Verify that air is flowing freely through the vent."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i need to set up proper ventilation in the space. I have done these things: 1. Go to the room with the vent and the lamp. what should i do next?",
+        "answers": [
+            "2. Ensure that the vent is open and clean."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub007-sub008-sub009-sub011-sub013"
+    },
+    {
+        "question": "### human: i want to play a game on the pool table. what should i do?",
+        "answers": [
+            "1. Go to the room adorned with 7 lamps and a pool table.",
+            "2. Pick up the solitary ball resting on the pool table.",
+            "3. Place the ball at the desired starting position on the pool table.",
+            "4. Prepare to hit the ball with the pool cue.",
+            "5. Hit the ball to start the game."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub022-sub024"
+    },
+    {
+        "question": "### human: i want to have a comfortable seating arrangement in my room with six pillows. what should i do?",
+        "answers": [
+            "1. Go to the room with 6 pillows and 10 lamps.",
+            "2. Pick up one pillow.",
+            "3. Place the pillow on a seating area (e.g., a couch or chair).",
+            "4. Repeat steps 2-3 for the remaining pillows.",
+            "5. Arrange the pillows neatly to create a comfortable seating area."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub022-sub024"
+    },
+    {
+        "question": "### human: i want to reflect light in the room. i have done these things: 1. turn on all 10 lamps.. what should i do next?",
+        "answers": [
+            "Adjust the position of the mirror to reflect the light effectively."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub022-sub024"
+    },
+    {
+        "question": "### human: i want to clean my hands. i have done these things: 1. turn on the faucet. what should i do next?",
+        "answers": [
+            "2. Use the soap dispenser to get some soap.",
+            "3. Rub your hands together to create a lather.",
+            "4. Rinse your hands under the running water from the faucet.",
+            "5. Turn off the faucet."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub022-sub024"
+    },
+    {
+        "question": "### human: i want to read a magazine. what should i do?",
+        "answers": [
+            "1. Go to the room adorned with 7 lamps and a pool table.",
+            "2. Locate the magazine in the room.",
+            "3. Pick up the magazine.",
+            "4. Find a comfortable spot to sit.",
+            "5. Open the magazine and start reading."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub017-sub020-sub022-sub024"
+    },
+    {
+        "question": "### human: i want to take a shower. what should i do?",
+        "answers": [
+            "1. Go to the room with the sinks and shower.",
+            "2. Turn on the shower control valve.",
+            "3. Wait for the water to reach the desired temperature.",
+            "4. Step into the shower.",
+            "5. Use the shower head to rinse off."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub011-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to store some items. what should i do?",
+        "answers": [
+            "1. Go to the room with the shelves.",
+            "2. Pick up the items you want to store.",
+            "3. Place the items on the shelves in an organized manner.",
+            "4. Make sure the items are secured properly.",
+            "5. Step back to check if more items need to be stored."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub011-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to admire the picture. what should i do?",
+        "answers": [
+            "1. Go to the room with the picture on the wall.",
+            "2. Stand at a comfortable viewing distance from the picture.",
+            "3. Observe the details and colors of the picture.",
+            "4. Take your time to appreciate the artwork."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub011-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to find something in the storage cabinet. what should i do?",
+        "answers": [
+            "1. Go to the room with the solitary cabinet.",
+            "2. Open the doors of the cabinet.",
+            "3. Look inside and locate the item you need.",
+            "4. Take the item out of the cabinet."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub011-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to check the air ventilation. i have done these things: 1. ensure the vent is clear.. what should i do next?",
+        "answers": [
+            "2. Turn on the ventilation system.",
+            "3. Verify that air is flowing properly through the vent.",
+            "4. Adjust the vent if needed to improve airflow."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub005-sub011-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to play a game of pool. What should I do?",
+        "answers": [
+            "1. Go to the room with the pool table.",
+            "2. Stand by the pool table.",
+            "3. Pick up the pool cue.",
+            "4. Position the ball as needed.",
+            "5. Hit the ball with the pool cue."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub018-sub019-sub023-sub024"
+    },
+    {
+        "question": "### human: I want to place decorations on the shelf. I have done these things: 1. go to the room with the shelf. 2. stand by the shelf. 3. pick up the decorations. What should I do next?",
+        "answers": [
+            "Place the decorations one by one on the shelf."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub018-sub019-sub023-sub024"
+    },
+    {
+        "question": "### human: I want to read the magazine available in the leisure room. What should I do?",
+        "answers": [
+            "1. Go to the room with the pool table.",
+            "2. Locate the magazine in the room.",
+            "3. Pick up the magazine.",
+            "4. Sit down comfortably.",
+            "5. Start reading the magazine."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub018-sub019-sub023-sub024"
+    },
+    {
+        "question": "### human: I want to relax in the bathtub. What should I do?",
+        "answers": [
+            "1. Go to the room with the bathtub.",
+            "2. Stand near the bathtub.",
+            "3. Turn on the water and adjust to the desired temperature.",
+            "4. Gently step into the bathtub."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub018-sub019-sub023-sub024"
+    },
+    {
+        "question": "### human: I want to find a quiet place with no distractions. What should I do?",
+        "answers": [
+            "1. Go to the room with the single cabinet.",
+            "2. Stand quietly in the room or sit if possible.",
+            "3. Take deep breaths and relax."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub018-sub019-sub023-sub024"
+    },
+    {
+        "question": "### human: I want to decorate the room with curtains. What should I do?",
+        "answers": [
+            "1. Go to the room that has 5 curtains.",
+            "2. Ensure the curtain rods are in the correct position above the windows.",
+            "3. Grab the curtains and thread them through the rods, one by one.",
+            "4. Spread the curtains evenly to cover the windows.",
+            "5. Adjust the curtains to ensure they hang symmetrically."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub009-sub010-sub012-sub014"
+    },
+    {
+        "question": "### human: I want to illuminate a room. I have done these things: 1. Verify the light bulb is installed in the lamp. What should I do next?",
+        "answers": [
+            "2. Go to the room that has 25 lamps.",
+            "3. Find the switch or control for the lamp.",
+            "4. Turn on the lamp.",
+            "5. Adjust the lamp's position to ensure it lights up the desired area."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub009-sub010-sub012-sub014"
+    },
+    {
+        "question": "### human: I want to organize my storage space. What should I do first?",
+        "answers": [
+            "1. Go to the room that has 5 storage boxes.",
+            "2. Open each storage box to see what items are inside.",
+            "3. Group similar items together in each storage box.",
+            "4. Stack or arrange the storage boxes in an orderly fashion."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub009-sub010-sub012-sub014"
+    },
+    {
+        "question": "### human: I want to set up a relaxing spot in a room. I have done these things: 1. Place the chair in a comfortable corner. What should I do next?",
+        "answers": [
+            "2. Go to the room that has 6 pillows.",
+            "3. Grab some pillows.",
+            "4. Arrange the pillows on the chair for added comfort."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub009-sub010-sub012-sub014"
+    },
+    {
+        "question": "### human: I need to inspect all the smoke detectors. Where should I go and what should I do first?",
+        "answers": [
+            "1. Go to the room that has 2 smoke detectors.",
+            "2. Check each smoke detector to ensure they are securely installed on the ceiling or the wall.",
+            "3. Press the test button on each smoke detector to ensure they are functional.",
+            "4. Replace the batteries if necessary."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub009-sub010-sub012-sub014"
+    },
+    {
+        "question": "### human: i want to read a magazine in the room with the pool table. what should i do?",
+        "answers": [
+            "1. go to the room with the pool table",
+            "2. locate the magazine",
+            "3. pick up the magazine",
+            "4. sit comfortably in the room with ample lighting",
+            "5. start reading the magazine"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub019-sub020-sub021-sub024"
+    },
+    {
+        "question": "### human: i want to organize the pillows in the room with the shelf and shower control valve. I have done these things: 1. Go to the room with the pillows.. what should I do next?",
+        "answers": [
+            "2. Gather all nine pillows in one spot"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub019-sub020-sub021-sub024"
+    },
+    {
+        "question": "### human: i want to sit comfortably in the room with two armchairs and read a book. I have done these things: 1. Go to the room with two armchairs. 2. Pick up a book.. what should I do next?",
+        "answers": [
+            "3. Sit down in one of the armchairs."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub019-sub020-sub021-sub024"
+    },
+    {
+        "question": "### human: i want to adjust the lamps in the room with the mirror and six pillows. what should I do?",
+        "answers": [
+            "1. Go to the room with the mirror and six pillows",
+            "2. Locate the 10 lamps in the room",
+            "3. Adjust the position or brightness of each lamp as desired"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub019-sub020-sub021-sub024"
+    },
+    {
+        "question": "### human: i want to prepare the room with a pool table for a game. I have done these things: 1. Go to the room with the pool table.. what should I do next?",
+        "answers": [
+            "2. Ensure the solitary ball is placed on the pool table",
+            "3. Grab a pool cue"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub016-sub019-sub020-sub021-sub024"
+    },
+    {
+        "question": "### human: i want to read a book. what should i do?",
+        "answers": [
+            "1. go to the room with 11 pillows and 7 lamps",
+            "2. pick up the book from one of the cabinets",
+            "3. sit down on a comfortable spot",
+            "4. open the book",
+            "5. start reading"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub003-sub004-sub012-sub013"
+    },
+    {
+        "question": "### human: i want to arrange a cozy reading corner. what should i do?",
+        "answers": [
+            "1. go to the room with the solitary armchair",
+            "2. place a lamp next to the armchair for good lighting",
+            "3. add a pillow to the armchair for extra comfort",
+            "4. place a small table beside the armchair for placing books",
+            "5. place a decoration on the table"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub003-sub004-sub012-sub013"
+    },
+    {
+        "question": "### human: i want to decorate a room with pictures. i have done these things: 1. picked up the pictures. what should i do next?",
+        "answers": [
+            "2. go to the room with 11 pictures",
+            "3. find suitable places on the walls",
+            "4. use nails or hooks to hang the pictures",
+            "5. step back to ensure they are well-arranged"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub003-sub004-sub012-sub013"
+    },
+    {
+        "question": "### human: i want to organize the storage in a room. i have done these things: 1. gathered all items to be stored. what should i do next?",
+        "answers": [
+            "2. go to the room with 17 cabinets and 2 storage boxes",
+            "3. open each cabinet and decide what goes where",
+            "4. store the items neatly in the cabinets and storage boxes",
+            "5. close the cabinets and ensure everything is well-organized"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub003-sub004-sub012-sub013"
+    },
+    {
+        "question": "### human: i want to make a space more functional for meetings. i have done these things: 1. cleared the clutter from the room. what should i do next?",
+        "answers": [
+            "2. go to the room with 4 chairs and 2 storage boxes",
+            "3. arrange the chairs around a central area for seating",
+            "4. place the storage boxes in a corner for easy access",
+            "5. ensure there are enough lamps for proper lighting"
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub002-sub003-sub004-sub012-sub013"
+    },
+    {
+        "question": "### human: I would like to read the book in the room. What should I do?",
+        "answers": [
+            "1. Go to the room with 11 pillows and 7 lamps.",
+            "2. Pick up the book.",
+            "3. Sit on a comfortable spot with a pillow.",
+            "4. Read the book."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub003-sub005-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to take a shower. I have turned on the shower control valve. What should I do next?",
+        "answers": [
+            "1. Ensure the water temperature is comfortable.",
+            "2. Step into the shower area.",
+            "3. Use the soap and shampoo to clean yourself.",
+            "4. Rinse off thoroughly under the shower heads."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub003-sub005-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to decorate the room. I have placed all four decorations. What should I do next?",
+        "answers": [
+            "1. Make sure the decorations are evenly distributed and placed in aesthetically pleasing positions.",
+            "2. Adjust the lighting from the lamps to highlight the decorations.",
+            "3. Step back and admire the decorated room."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub003-sub005-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to rest on the bench in the bathroom. What should I do?",
+        "answers": [
+            "1. Go to the room with a bench, two shower heads, and two sinks.",
+            "2. Ensure the bench is clean and dry.",
+            "3. Sit down on the bench and relax for a while."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub003-sub005-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to make sure the room with minimal objects is organized. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary cabinet.",
+            "2. Open the cabinet doors.",
+            "3. Ensure items inside are neatly organized, and arrange them if necessary.",
+            "4. Close the cabinet doors and make sure the room looks tidy."
+        ],
+        "scan_id": "00258-2Pc8W48bu21",
+        "room_id": "sub003-sub005-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to water all the potted plants. What should I do?",
+        "answers": [
+            "1. go to the room with 6 decorations and 7 potted plants.",
+            "2. locate a watering can or other container for water.",
+            "3. fill the container with water from the sink.",
+            "4. water each potted plant carefully."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub009-sub013-sub014-sub020"
+    },
+    {
+        "question": "### human: I want to distribute information materials in the room. I have done these things: 1. collect the information materials.. what should I do next?",
+        "answers": [
+            "2. go to the room with five signs.",
+            "3. place the information materials next to each of the signs."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub009-sub013-sub014-sub020"
+    },
+    {
+        "question": "### human: I want to set up a meeting area. I have done these things: 1. arrange the six chairs in a circle.. what should I do next?",
+        "answers": [
+            "2. ensure the chairs are spaced evenly."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub009-sub013-sub014-sub020"
+    },
+    {
+        "question": "### human: I want to hang some clothes in the room with the clothes hanger. What should I do?",
+        "answers": [
+            "1. go to the room with the solitary clothes hanger.",
+            "2. bring the clothes you want to hang.",
+            "3. place the clothes on the hanger carefully."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub009-sub013-sub014-sub020"
+    },
+    {
+        "question": "### human: I want to clean the sink area. I have done these things: 1. get cleaning supplies.. what should I do next?",
+        "answers": [
+            "2. go to the room with a sink, 2 cabinets, and 2 shelves.",
+            "3. start by wiping down the sink area with a cleaning cloth.",
+            "4. clean the faucet and handles.",
+            "5. rinse the cleaning cloth and wipe down the sink one more time."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub009-sub013-sub014-sub020"
+    },
+    {
+        "question": "### human: i want to organize a reading corner. what should i do?",
+        "answers": [
+            "1. Go to the room with cabinets, bookshelves, chairs, windows, and a table.",
+            "2. Choose a chair and place it near the bookshelf.",
+            "3. Pick a table and position it next to the chair.",
+            "4. Arrange a lamp on the table for reading light.",
+            "5. Add a potted plant for decoration."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub023-sub025-sub026-sub027-sub028"
+    },
+    {
+        "question": "### human: i want to set up a dining area. what should i do?",
+        "answers": [
+            "1. Go to the room with two tables and three windows.",
+            "2. Arrange the tables in the center of the room.",
+            "3. Place chairs around each table.",
+            "4. Decorate the tables with vases."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub023-sub025-sub026-sub027-sub028"
+    },
+    {
+        "question": "### human: i want to set up a meeting area. i have done these things: 1. place the tables in a row. what should i do next?",
+        "answers": [
+            "Place the chairs behind each table."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub023-sub025-sub026-sub027-sub028"
+    },
+    {
+        "question": "### human: i want to create an art space. i have done these things: 1. hang the pictures on the wall. what should i do next?",
+        "answers": [
+            "2. Arrange the chairs to face the pictures."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub023-sub025-sub026-sub027-sub028"
+    },
+    {
+        "question": "### human: i want to arrange a cozy seating area. i have done these things: 1. place the seats around the table. what should i do next?",
+        "answers": [
+            "2. Add a lamp next to one of the seats for lighting.",
+            "3. Place a potted plant on the table for decoration."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub023-sub025-sub026-sub027-sub028"
+    },
+    {
+        "question": "### human: I want to perform a workout session. What should I do?",
+        "answers": [
+            "1. Go to the room with exercise machines.",
+            "2. Choose an exercise machine to start your workout.",
+            "3. Use the dumbbells for strength training.",
+            "4. Watch a workout video on the TV for guidance.",
+            "5. Perform a cool-down routine on a different exercise machine."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub005-sub008-sub010-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to perform a workout session. I have done these things: 1. Go to the room with exercise machines. 2. Choose an exercise machine to start your workout. What should I do next?",
+        "answers": [
+            "Use the dumbbells for strength training."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub005-sub008-sub010-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to perform a workout session. I have done these things: 1. Go to the room with exercise machines. 2. Choose an exercise machine to start your workout. 3. Use the dumbbells for strength training. What should I do next?",
+        "answers": [
+            "Watch a workout video on the TV for guidance."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub005-sub008-sub010-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to perform a workout session. I have done these things: 1. Go to the room with exercise machines. 2. Choose an exercise machine to start your workout. 3. Use the dumbbells for strength training. 4. Watch a workout video on the TV for guidance. What should I do next?",
+        "answers": [
+            "Perform a cool-down routine on a different exercise machine."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub005-sub008-sub010-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to water the plants. What should I do?",
+        "answers": [
+            "1. Go to the room with the potted plants.",
+            "2. Locate a water source, such as the sink.",
+            "3. Fill a container with water.",
+            "4. Water each potted plant carefully.",
+            "5. Place the container back and clean up any spillage."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub005-sub008-sub010-sub018-sub022"
+    },
+    {
+        "question": "### Human: I want to figure out the purpose of the mysterious machine. What should I do?",
+        "answers": [
+            "1. Go to the room with the clock and the mysterious machine.",
+            "2. Approach the machine.",
+            "3. Examine the machine closely to understand its components and any labels or instructions."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub011-sub013-sub015-sub016"
+    },
+    {
+        "question": "### Human: I want to figure out the purpose of the mysterious machine. I have done these things: 1. Go to the room with the clock and the mysterious machine. 2. Approach the machine. What should I do next?",
+        "answers": [
+            "Examine the machine closely to understand its components and any labels or instructions."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub011-sub013-sub015-sub016"
+    },
+    {
+        "question": "### Human: I want to hold a meeting with my team. What should I do?",
+        "answers": [
+            "1. Go to the room with six chairs.",
+            "2. Arrange the chairs in a circle or around a central point to facilitate discussion.",
+            "3. Invite team members to take a seat."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub011-sub013-sub015-sub016"
+    },
+    {
+        "question": "### Human: I want to hold a meeting with my team. I have done these things: 1. Go to the room with six chairs. 2. Arrange the chairs in a circle. What should I do next?",
+        "answers": [
+            "3. Invite team members to take a seat."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub011-sub013-sub015-sub016"
+    },
+    {
+        "question": "### Human: I want to understand the meaning of the sign. What should I do?",
+        "answers": [
+            "1. Go to the room with the solitary sign.",
+            "2. Approach the sign.",
+            "3. Read the sign to decipher its message."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub011-sub013-sub015-sub016"
+    },
+    {
+        "question": "### human: I want to water the potted plants in the room with plenty of decorations. What should I do?",
+        "answers": [
+            "1. Go to the room with 6 decorations and 7 potted plants.",
+            "2. Locate the sink for easy access to water.",
+            "3. Fill a watering can or a container with water from the sink.",
+            "4. Carefully water each of the 7 potted plants one by one."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub011-sub012-sub014-sub019"
+    },
+    {
+        "question": "### human: I need to clean and organize the space around the sink in the room with many decorations. What should be my first steps?",
+        "answers": [
+            "1. Go to the room adorned with 6 decorations and 7 potted plants.",
+            "2. Clear off any items cluttering the sink area and set them aside.",
+            "3. Wipe down the sink with a cleaning cloth or sponge."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub011-sub012-sub014-sub019"
+    },
+    {
+        "question": "### human: I need to clean and organize the space around the sink in the room with many decorations. I have already cleared the items and wiped down the sink. What should I do next?",
+        "answers": [
+            "4. Put back only the necessary items around the sink area in an orderly fashion.",
+            "5. Ensure that the cabinets above the plants are clean and organized."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub011-sub012-sub014-sub019"
+    },
+    {
+        "question": "### human: I want to hang a new sign in the room where a sign stands alone. What should I do?",
+        "answers": [
+            "1. Go to the room with the solitary sign.",
+            "2. Choose a spot on the wall for the new sign.",
+            "3. Use nails or adhesive hooks to hang the sign in the selected spot."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub011-sub012-sub014-sub019"
+    },
+    {
+        "question": "### human: I have a clothes hanger, and I want to prepare the room for storing more clothes. What should I do after placing the clothes hanger?",
+        "answers": [
+            "1. Go to the room with the solitary clothes hanger.",
+            "2. Place storage boxes or organizers in the room for additional clothing items."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub011-sub012-sub014-sub019"
+    },
+    {
+        "question": "### human: I want to investigate the mysterious machine. What should I do?",
+        "answers": [
+            "1. Go to the room with the clock and the mysterious machine.",
+            "2. Approach the machine.",
+            "3. Observe the machine closely to understand its features.",
+            "4. Try interacting with the machine to uncover its purpose."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to arrange a meeting setup. I have done these things: 1. Place six chairs in the room. What should I do next?",
+        "answers": [
+            "Arrange the two seats in the room to face the six chairs."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to set up an informational display. What should I do?",
+        "answers": [
+            "1. Go to the room with five signs.",
+            "2. Arrange the five signs in the room for easy visibility.",
+            "3. Ensure that any additional informational items are displayed clearly."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to create a contemplative space. What should I do?",
+        "answers": [
+            "1. Go to the room with the solitary sign.",
+            "2. Position the sign in a prominent location within the room.",
+            "3. Remove any distractions to maintain an atmosphere of solitude."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to organize a gathering space. I have done these things: 1. Place two seats together in the room. 2. Arrange six chairs around the two seats. What should I do next?",
+        "answers": [
+            "Ensure all chairs and seats are positioned for comfortable interaction."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub003-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to water the plants. what should i do?",
+        "answers": [
+            "1. go to the room with an abundance of greenery",
+            "2. take a watering can",
+            "3. fill the watering can with water from the sink",
+            "4. water each of the 7 potted plants one by one",
+            "5. ensure each plant gets adequate water",
+            "6. return the watering can to its place"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub017-sub020"
+    },
+    {
+        "question": "### human: i want to arrange a cozy reading nook. i have done these things: 1. place candles for ambient lighting.. what should i do next?",
+        "answers": [
+            "2. place a comfortable chair next to the nightstand"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub017-sub020"
+    },
+    {
+        "question": "### human: i want to arrange a cozy reading nook. i have done these things: 1. place candles for ambient lighting. 2. place a comfortable chair next to the nightstand. what should i do next?",
+        "answers": [
+            "3. place a few books and a reading lamp on the nightstand"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub017-sub020"
+    },
+    {
+        "question": "### human: i want to organize the decorations on the shelves in the elegant room. what should i do?",
+        "answers": [
+            "1. go to the room adorned with 6 decorations",
+            "2. take each decoration from the shelves one by one",
+            "3. categorize and place the decorations neatly back on the shelves"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub017-sub020"
+    },
+    {
+        "question": "### human: i need to hang up clothes. what steps should i follow?",
+        "answers": [
+            "1. go to the room with a solitary clothes hanger",
+            "2. take the garments you need to hang",
+            "3. hang each garment on the clothes hanger one by one",
+            "4. ensure the clothes are evenly spaced and neatly hung"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub017-sub020"
+    },
+    {
+        "question": "### human: I want to sit and relax while looking at plants. what should I do?",
+        "answers": [
+            "1. go to the room with 3 potted plants and a seat",
+            "2. sit on the seat positioned in front of the potted plants",
+            "3. admire the potted plants and enjoy the serene environment"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub009-sub014-sub017"
+    },
+    {
+        "question": "### human: I want to sit and relax while looking at plants. I have done these things: 1. go to the room with 3 potted plants and a seat.. what should I do next?",
+        "answers": [
+            "2. sit on the seat positioned in front of the potted plants"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub009-sub014-sub017"
+    },
+    {
+        "question": "### human: I want to clean up an area. what should I do?",
+        "answers": [
+            "1. go to the room with a solitary trash can",
+            "2. gather any trash in the room",
+            "3. put the gathered trash into the trash can",
+            "4. make sure the room looks clean and tidy"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub009-sub014-sub017"
+    },
+    {
+        "question": "### human: I want to clean up an area. I have done these things: 1. gather any trash in the room. what should I do next?",
+        "answers": [
+            "2. put the gathered trash into the trash can"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub009-sub014-sub017"
+    },
+    {
+        "question": "### human: I want to store my clothes. what should I do?",
+        "answers": [
+            "1. go to the room with a solitary clothes hanger",
+            "2. hang your clothes on the clothes hanger",
+            "3. make sure all your garments are properly hung"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub009-sub014-sub017"
+    },
+    {
+        "question": "### human: i want to sit and read a book in a comfortable area. what should i do?",
+        "answers": [
+            "1. go to the room with twelve couches and two shelves",
+            "2. select a couch to sit on",
+            "3. find a book on one of the shelves",
+            "4. sit on the selected couch and start reading"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub002-sub003-sub004-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to figure out the purpose of the mysterious machine. what should i do?",
+        "answers": [
+            "1. go to the room with the solitary clock and the mysterious machine",
+            "2. inspect the machine closely",
+            "3. look for any instructions or hints near the machine",
+            "4. interact with the machine to discover its functionality"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub002-sub003-sub004-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to organize a small meeting space. i have arranged the chairs in a circle. what should i do next?",
+        "answers": [
+            "ensure each chair is evenly spaced and facing inward"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub002-sub003-sub004-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to use the platform for a presentation. what should i do?",
+        "answers": [
+            "1. go to the room with eight couches and one platform",
+            "2. arrange the couches to face the platform",
+            "3. set up any presentation materials on the platform",
+            "4. ensure there is a clear path for attendees to find seats"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub002-sub003-sub004-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to create a tranquil reading corner. i have selected a chair near the solitary structure. what should i do next?",
+        "answers": [
+            "add a small table next to the chair for placing books or a cup of tea"
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub002-sub003-sub004-sub013-sub016"
+    },
+    {
+        "question": "### human: i want to set up a relaxation area. what should i do?",
+        "answers": [
+            "1. Go to the room with the seat and potted plants.",
+            "2. Sit on the solitary seat.",
+            "3. Arrange the potted plants in a pleasing manner around the seat."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub010-sub014-sub017"
+    },
+    {
+        "question": "### human: i want to set up a relaxation area. i have done these things: 1. Go to the room with the seat and potted plants. 2. Sit on the solitary seat. 3. Arrange the potted plants in a pleasing manner around the seat.. what should i do next?",
+        "answers": [
+            "4. Spend some time relaxing and admiring the verdant beauty."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub010-sub014-sub017"
+    },
+    {
+        "question": "### human: i want to create a cozy atmosphere for reading. what should i do?",
+        "answers": [
+            "1. Go to the room with the nightstand and candles.",
+            "2. Light the 5 candles to create a warm glow.",
+            "3. Place a book or a magazine on the nightstand."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub010-sub014-sub017"
+    },
+    {
+        "question": "### human: i want to create a cozy atmosphere for reading. i have done these things: 1. Go to the room with the nightstand and candles. 2. Light the 5 candles to create a warm glow. 3. Place a book or a magazine on the nightstand.. what should i do next?",
+        "answers": [
+            "4. Sit down and start reading in the tranquil ambiance created by the candles."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub010-sub014-sub017"
+    },
+    {
+        "question": "### human: i want to prepare a space for hanging clothes. what should i do?",
+        "answers": [
+            "1. Go to the room with the clothes hanger.",
+            "2. Hang your clothes on the solitary clothes hanger."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub006-sub007-sub010-sub014-sub017"
+    },
+    {
+        "question": "### human: I want to water all the potted plants in the room with 6 decorations. What should I do?",
+        "answers": [
+            "1. Go to the room with 6 decorations and 7 potted plants.",
+            "2. Locate the sink in the room.",
+            "3. Fill a container with water from the sink.",
+            "4. Water each potted plant one by one."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to water all the potted plants in the room with 6 decorations. I have completed these steps: 1. Go to the room with 6 decorations and 7 potted plants. 2. Locate the sink in the room. 3. Fill a container with water from the sink. What should I do next?",
+        "answers": [
+            "4. Water each potted plant one by one."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to arrange the candles in the room with 2 decorations. What should I do?",
+        "answers": [
+            "1. Go to the room with 5 candles and 2 decorations.",
+            "2. Pick up each candle one by one.",
+            "3. Place the candles neatly on the nightstand."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to arrange the candles in the room with 2 decorations. I have completed these steps: 1. Go to the room with 5 candles and 2 decorations. What should I do next?",
+        "answers": [
+            "2. Pick up each candle one by one.",
+            "3. Place the candles neatly on the nightstand."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub018-sub022"
+    },
+    {
+        "question": "### human: I want to hang my clothes in the room most suited for garment storage. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary clothes hanger.",
+            "2. Pick up your clothes.",
+            "3. Hang your clothes on the clothes hanger."
+        ],
+        "scan_id": "00626-XiJhRLvpKpX",
+        "room_id": "sub008-sub010-sub014-sub018-sub022"
+    },
+    {
+        "question": "### human: i want to wash my clothes. what should i do?",
+        "answers": [
+            "1. go to the room with the sink and two washing machines.",
+            "2. place the clothes in one of the washing machines.",
+            "3. add detergent to the washing machine.",
+            "4. select the desired washing cycle.",
+            "5. start the washing machine."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub007-sub008-sub009-sub010-sub011"
+    },
+    {
+        "question": "### human: i want to clean the room. i have done these things: 1. pick up the spray bottle.. what should i do next?",
+        "answers": [
+            "2. go to the room with the vent.",
+            "3. spray the cleaner on the surfaces that need cleaning.",
+            "4. wipe down the surfaces with a cloth."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub007-sub008-sub009-sub010-sub011"
+    },
+    {
+        "question": "### human: i want to appreciate the artistic decorations. what should i do?",
+        "answers": [
+            "1. go to the room with 23 pictures, 5 decorations, and 2 curtains.",
+            "2. observe and contemplate the various pictures.",
+            "3. take a closer look at the decorations.",
+            "4. adjust the curtains to control the natural light.",
+            "5. look out the window for a change of scenery."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub007-sub008-sub009-sub010-sub011"
+    },
+    {
+        "question": "### human: i want to organize my personal care items. what should i do?",
+        "answers": [
+            "1. go to the room with the sink, shelf, and two toiletries.",
+            "2. take the toiletries and place them on the shelf.",
+            "3. arrange the toiletries in an organized manner on the shelf."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub007-sub008-sub009-sub010-sub011"
+    },
+    {
+        "question": "### human: i want to relax with some warm lighting. what should i do?",
+        "answers": [
+            "1. go to the room with 2 lamps.",
+            "2. turn on the lamps to create a warm glow.",
+            "3. find a comfortable spot to sit and relax in the room."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub007-sub008-sub009-sub010-sub011"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading corner. What should I do?",
+        "answers": [
+            "1. go to the room with 21 chairs and 11 pillows.",
+            "2. choose a comfortable chair.",
+            "3. place a pillow on the chair for added comfort.",
+            "4. find a book from the collection of 4 books.",
+            "5. arrange a small rug under the chair."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub005-sub006-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to make the laundry area more organized. What should I do?",
+        "answers": [
+            "1. go to the room with the 2 washing machines and sink.",
+            "2. place the toiletries neatly on the shelf.",
+            "3. organize any laundry items around the washing machines.",
+            "4. clean the sink area to maintain hygiene.",
+            "5. make sure the shelf is well-organized with necessary laundry supplies."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub005-sub006-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to create a pleasant ambiance in the room. I have done these things: 1. turned on the 3 table lamps... What should I do next?",
+        "answers": [
+            "2. arrange the 9 pictures to enhance visual harmony.",
+            "3. adjust the 2 curtains for optimal lighting.",
+            "4. place the 6 pillows in a visually appealing arrangement.",
+            "5. ensure the room is tidy to maintain a calm atmosphere."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub005-sub006-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to decorate the room for a social gathering. I have done these things: 1. placed the chairs around the room 2. spread the carpet in the middle 3. arranged the pillows on the chairs... What should I do next?",
+        "answers": [
+            "4. place the 18 decorations around the room.",
+            "5. light the 4 candles to create a warm ambiance.",
+            "6. ensure the piano is clear for potential use during the gathering.",
+            "7. make sure the 21 pictures are neatly arranged on the walls."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub005-sub006-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to clean up the small room. I have done these things: 1. turned on the 2 lamps for better visibility 2. used the spray bottle to clean surfaces... What should I do next?",
+        "answers": [
+            "3. make sure the vent is free of dust.",
+            "4. organize any loose items lying around.",
+            "5. check for any areas that need additional cleaning."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub005-sub006-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to set a relaxing ambiance in the room. What should I do?",
+        "answers": [
+            "1. Go to the room with the soft glow of 3 table lamps.",
+            "2. Turn on all three table lamps to create a cozy ambiance.",
+            "3. Adjust the curtains to allow a gentle breeze if preferred."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub006-sub007-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to set a relaxing ambiance in the room. I have done these things: 1. Go to the room with the soft glow of 3 table lamps. 2. Turn on all three table lamps to create a cozy ambiance.. What should I do next?",
+        "answers": [
+            "Adjust the curtains to allow a gentle breeze if preferred."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub006-sub007-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to create a cozy reading nook. What should I do?",
+        "answers": [
+            "1. Go to the room with 6 plush pillows.",
+            "2. Arrange the pillows in a corner to create a comfortable seating area.",
+            "3. Turn on one of the table lamps for reading light."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub006-sub007-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to clean the room. What should I do?",
+        "answers": [
+            "1. Go to the room with a spray bottle.",
+            "2. Use the spray bottle to clean surfaces.",
+            "3. Use one of the 2 lamps if additional light is needed."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub006-sub007-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to clean the room. I have done these things: 1. Go to the room with a spray bottle. 2. Use the spray bottle to clean surfaces. 3. Use one of the 2 lamps if additional light is needed.. What should I do next?",
+        "answers": [
+            "Make sure the vent is unobstructed to allow proper air circulation after cleaning."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub006-sub007-sub008-sub009-sub011"
+    },
+    {
+        "question": "### human: I want to organize a music session. What should I do?",
+        "answers": [
+            "1. Go to the room with the guitar and speakers.",
+            "2. Pick up the guitar and place it on the chair.",
+            "3. Set up the speakers near the desk.",
+            "4. Position the chair in the center of the room for playing.",
+            "5. Ensure the storage boxes are out of the way to create more space."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to start an exercise routine. I have set up the yoga mat. What should I do next?",
+        "answers": [
+            "Pick up the dumbbells and place them next to the mat."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to relax and read a book. What should I do?",
+        "answers": [
+            "1. Go to the room with the desk and shelf.",
+            "2. Pick up a book from the shelf.",
+            "3. Sit down on the chair next to the desk.",
+            "4. Place the book on the desk.",
+            "5. Start reading the book."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to start a painting activity. I have picked up a canvas. What should I do next?",
+        "answers": [
+            "Place the canvas on the desk in the room with various objects."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to create an art display. I have done these things: 1. Pick up the pictures from the room with 14 pictures. What should I do next?",
+        "answers": [
+            "1. Go to the room with books and shelves.",
+            "2. Find an empty space on the wall.",
+            "3. Hang the pictures on the wall in an organized manner."
+        ],
+        "scan_id": "00720-8B43pG641ff",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to organize the books in the room with three curtains. What should I do?",
+        "answers": [
+            "1. Go to the room with three curtains.",
+            "2. Locate the eleven books in the room.",
+            "3. Pick up the books one by one.",
+            "4. Arrange the books in a neat and organized manner.",
+            "5. Step away from the arrangement to admire the organized books."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub004-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to decorate the room with a lamp and two cabinets. I have done these things: 1. placed decorative items on the cabinets. What should I do next?",
+        "answers": [
+            "Turn on the lamp to enhance the room's ambiance."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub004-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I need to categorize documents in the room with five cabinets. I have done these things: 1. gathered all the documents. What should I do next?",
+        "answers": [
+            "2. Sort the documents based on categories.",
+            "3. Place the categorized documents into the appropriate cabinets."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub004-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to set up an entertainment system in the room with six chairs and three remotes. I have done these things: 1. placed the chairs facing towards the entertainment center. What should I do next?",
+        "answers": [
+            "2. Gather the remotes and place them in an accessible location near the seating area."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub004-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to make the room with a toilet flush button and a trash can more functional. I have done these things: 1. ensured the trash can is empty. What should I do next?",
+        "answers": [
+            "2. Wipe down the toilet flush button for sanitation."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub004-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to clean up the office workspace. what should i do?",
+        "answers": [
+            "1. Collect the trash from the trash can.",
+            "2. Place the trash into the trash bin for disposal.",
+            "3. Organize the papers on the table.",
+            "4. Arrange the chairs neatly around the table.",
+            "5. Wipe down the table and monitor with a cloth."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: i want to prepare the meeting room for a conference. i have done these things: 1. Clear the table. what should i do next?",
+        "answers": [
+            "2. Arrange the chairs around the table.",
+            "3. Ensure that there is ample space for participants to move freely."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: i want to set up a home office. i have done these things: 1. Position the cabinets. 2. Place the lamp on the desk. 3. Ensure the lamp is functional. what should i do next?",
+        "answers": [
+            "4. Organize the items to be stored inside the cabinets."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: i want to make the compact room more functional. what should i do?",
+        "answers": [
+            "1. Ensure the trash can is in an accessible spot.",
+            "2. Make sure the toilet flush button is functional and easily reachable."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: i want to organize the file storage room. what should i do?",
+        "answers": [
+            "1. Collect all loose documents.",
+            "2. Organize the documents into the binder.",
+            "3. File the binder and documents into the appropriate cabinets.",
+            "4. Straighten and adjust the pictures on the wall."
+        ],
+        "scan_id": "00254-YMNvYDhK8mB",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I want to prepare a meal. What should I do?",
+        "answers": [
+            "1. Go to the room with 4 counters and 3 cooking pots.",
+            "2. Gather the necessary cooking pots and bowls.",
+            "3. Use the counter space to prepare your ingredients.",
+            "4. Cook the meal using the cooking pots.",
+            "5. Serve the meal in the bowls or trays."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up an art display in a room. I have done these things: 1. Place the pictures on the walls. What should I do next?",
+        "answers": [
+            "Place the lamp behind the pictures to illuminate them."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up an art display in a room. I have done these things: 1. Place the pictures on the walls. 2. Place the lamp behind the pictures. What should I do next?",
+        "answers": [
+            "Step away and admire the art display in the gentle illumination."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to arrange a relaxation corner. What should I do?",
+        "answers": [
+            "1. Go to the room with 2 armchairs, 1 ottoman, and 3 pillows.",
+            "2. Place the ottoman in front of an armchair.",
+            "3. Arrange the pillows on the armchairs.",
+            "4. Place a table in front of the ottoman."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to organize a washroom. What should I do?",
+        "answers": [
+            "1. Go to the room with a sink and towels.",
+            "2. Place the towels neatly on the appropriate holders.",
+            "3. Ensure the toilet paper rolls are accessible."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading nook in the room with 5 beds. What should I do?",
+        "answers": [
+            "1. Go to the room with 5 beds and grab a bed.",
+            "2. Place the bed in a corner to create a cozy space.",
+            "3. Pick up a lamp and place it next to the bed for reading light.",
+            "4. Gather some blankets and towels and place them on the bed for comfort.",
+            "5. Arrange clothing items nearby for easy access to warm garments. Enjoy your reading nook!"
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub011-sub013-sub014"
+    },
+    {
+        "question": "### human: I want to create a cozy living area in the room with the washing machine. I have done these things: 1. Placed the blankets and pillows. What should I do next?",
+        "answers": [
+            "2. Arrange the lamps around the room for optimal lighting."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub011-sub013-sub014"
+    },
+    {
+        "question": "### human: I need to clean up the bathroom area with the single candle and trash can. What should I do?",
+        "answers": [
+            "1. Go to the bathroom area.",
+            "2. Empty the trash can.",
+            "3. Wipe down the sinks and faucets.",
+            "4. Arrange the towels neatly."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub011-sub013-sub014"
+    },
+    {
+        "question": "### human: I want to make the room with two monitors and a printer more functional. I have done these things: 1. Arranged the monitors on the desk. 2. Positioned the printer next to the desk. What should I do next?",
+        "answers": [
+            "3. Place the suitcase in a corner of the room for easy access when needed for travel."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub011-sub013-sub014"
+    },
+    {
+        "question": "### human: I want to set up a workspace in the room with 3 tables and 9 pictures. What should I do?",
+        "answers": [
+            "1. Arrange the tables in a functional layout for work and leisure.",
+            "2. Place the pictures on the walls to create an inspiring environment.",
+            "3. Add the pillows to the seating area to create a comfortable workspace."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub011-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to prepare the bed in the room with 5 beds. what should i do?",
+        "answers": [
+            "1. Go to the room with 5 beds.",
+            "2. Pick up a blanket.",
+            "3. Unfold the blanket on the bed.",
+            "4. Pick up a pillow (if present).",
+            "5. Place the pillow at the head of the bed.",
+            "6. Adjust the bed sheets and blanket to be neat."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub010-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to do laundry. i have done these things: 1. go to the room with a washing machine.. what should i do next?",
+        "answers": [
+            "2. Open the washing machine door.",
+            "3. Place dirty laundry into the washing machine.",
+            "4. Add laundry detergent."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub010-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to do laundry. i have done these things: 1. go to the room with a washing machine. 2. open the washing machine door. 3. place dirty laundry into the washing machine. 4. add laundry detergent.. what should i do next?",
+        "answers": [
+            "5. Close the washing machine door.",
+            "6. Set the washing machine cycle and start it."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub010-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to watch TV in the room with an armchair and windows. what should i do?",
+        "answers": [
+            "1. Go to the room with an armchair and windows.",
+            "2. Sit down in the armchair.",
+            "3. Pick up the TV remote (if present).",
+            "4. Turn on the TV using the remote.",
+            "5. Select a channel or streaming service."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub010-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to prepare a cozy environment in the room with a chair and TV. i have done these things: 1. set the chair behind the armchair. what should i do next?",
+        "answers": [
+            "2. Turn on the TV.",
+            "3. Adjust the lamps for ambient lighting.",
+            "4. Place a blanket on the chair or armchair."
+        ],
+        "scan_id": "00525-iKFn6fzyRqs",
+        "room_id": "sub008-sub009-sub010-sub013-sub014"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading corner in the room with the headboard and pillows. what should i do?",
+        "answers": [
+            "1. go to the room with the headboard and pillows.",
+            "2. arrange the pillows against the headboard to create a comfortable seating area.",
+            "3. place the speaker near the headboard for ambient music.",
+            "4. place one of the decorations nearby to enhance the aesthetic."
+        ],
+        "scan_id": "00869-MHPLjHsuG27",
+        "room_id": "sub007-sub008-sub009-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to create an artistic display in the room with the dresser and pictures. i have done these things: 1. placed the dresser against the wall. what should i do next?",
+        "answers": [
+            "2. hang the two pictures above the dresser to create a focal point on the wall.",
+            "3. place small decorative items on top of the dresser to complement the pictures."
+        ],
+        "scan_id": "00869-MHPLjHsuG27",
+        "room_id": "sub007-sub008-sub009-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to organize the toys and storage boxes in the room with the stuffed animals and lamp. what should i do?",
+        "answers": [
+            "1. go to the room with the stuffed animals and lamp.",
+            "2. place the stuffed animals neatly on the rack stands.",
+            "3. organize the storage boxes inside the shelf.",
+            "4. ensure the lamp is positioned to provide ample light to the room."
+        ],
+        "scan_id": "00869-MHPLjHsuG27",
+        "room_id": "sub007-sub008-sub009-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to make the simple room with a stool and pillows more comfortable. what should i do?",
+        "answers": [
+            "1. go to the room with the stool and pillows.",
+            "2. spread the pillows around the stool to create a cosy seating area.",
+            "3. arrange the single item of clothing neatly or store it away to reduce clutter."
+        ],
+        "scan_id": "00869-MHPLjHsuG27",
+        "room_id": "sub007-sub008-sub009-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to organize the shelf in the room with a mirror and shelf. i have done these things: 1. placed the shelf against the wall. what should i do next?",
+        "answers": [
+            "2. place personal or decorative items neatly on the shelf.",
+            "3. ensure the mirror is positioned to reflect light and make the room appear larger."
+        ],
+        "scan_id": "00869-MHPLjHsuG27",
+        "room_id": "sub007-sub008-sub009-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to organize the shoes in the storage area. what should i do?",
+        "answers": [
+            "1. go to the storage area",
+            "2. pick up the shoes one by one",
+            "3. arrange the shoes neatly on the floor or in a designated spot",
+            "4. ensure pairs are kept together",
+            "5. step away to admire the organized shoes"
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub010-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: i want to set up an efficient workspace. i have done these things: 1. arranged the books on the desk and shelf.. what should i do next?",
+        "answers": [
+            "2. place the printer in a convenient location on the desk",
+            "3. put the trash can next to the desk for easy access",
+            "4. ensure the baskets are organized within the electric panel area"
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub010-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: i want to create a cozy ambiance in the artistic room. i have done these things: 1. lit the candle.. what should i do next?",
+        "answers": [
+            "2. position the shoes neatly in front of the nightstand",
+            "3. arrange the potted plants to enhance the atmosphere",
+            "4. adjust the pictures for an aesthetically pleasing display"
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub010-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: i want to tidy up and organize the functional room. what should i do?",
+        "answers": [
+            "1. go to the room with the shelf and cabinet",
+            "2. place items on the shelf for display or storage",
+            "3. use the cabinet to store away items that need to be hidden",
+            "4. ensure everything is orderly for a neat appearance"
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub010-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: i want to enhance the comfort and warmth of the cozy room. i have done these things: 1. positioned the table to the left of the fireplaces.. what should i do next?",
+        "answers": [
+            "2. arrange the decorations behind the table",
+            "3. place the lamps in positions to enhance lighting",
+            "4. ensure the windows are clean to allow natural light",
+            "5. adjust the pictures for overall coziness and aesthetic appeal"
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub010-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to have a cozy reading session. What should I do?",
+        "answers": [
+            "1. Go to the room with the desk and books.",
+            "2. Pick a book from the collection.",
+            "3. Sit at the desk.",
+            "4. Start reading the book."
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub009-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to prepare dinner. I have done these things: 1. placed the ingredients on the table. What should I do next?",
+        "answers": [
+            "2. Go to the knife block and pick up a knife.",
+            "3. Start chopping the ingredients."
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub009-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to make the living room cozy. I have done these things: 1. arranged the decorations. What should I do next?",
+        "answers": [
+            "2. Go to the fireplaces and light them up."
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub009-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to keep my shoes organized. What should I do?",
+        "answers": [
+            "1. Go to the room with the shoes.",
+            "2. Arrange the shoes neatly against the wall."
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub009-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to keep the kitchen organized. I have done these things: 1. placed the pots on the shelves. What should I do next?",
+        "answers": [
+            "2. Organize the storage boxes."
+        ],
+        "scan_id": "00272-kA2nG18hCAr",
+        "room_id": "sub008-sub009-sub011-sub014-sub016"
+    },
+    {
+        "question": "### human: I want to arrange the pillows and nightstands in the comfortable room. What should I do?",
+        "answers": [
+            "1. Go to the room with four pillows and two nightstands.",
+            "2. Pick up each pillow one by one.",
+            "3. Place the pillows neatly on the bed or sitting area.",
+            "4. Move the nightstands to either side of the bed, ensuring they are balanced."
+        ],
+        "scan_id": "00592-CthA7sQNTPK",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to clean the sink in the room with the pictures. What steps should I follow?",
+        "answers": [
+            "1. Go to the room adorned with 12 pictures and a solitary sink.",
+            "2. Pick up the bottle, which might have a cleaning solution.",
+            "3. Apply the cleaning solution to the sink.",
+            "4. Use a cleaning cloth or towel to scrub the sink thoroughly."
+        ],
+        "scan_id": "00592-CthA7sQNTPK",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to organize the toiletries and towels in the personal care room. What should I do?",
+        "answers": [
+            "1. Go to the room with 4 towels and 2 toiletries.",
+            "2. Pick up the toiletries.",
+            "3. Arrange the toiletries neatly on a shelf or countertop.",
+            "4. Fold the towels and place them in a designated area, like a towel rack or a cupboard."
+        ],
+        "scan_id": "00592-CthA7sQNTPK",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to organize the clothing articles in the room with five clothing items. I have already picked up all the clothing articles. What should I do next?",
+        "answers": [
+            "1. Go to the room with five articles of clothing.",
+            "2. Lay each clothing item flat and fold them appropriately.",
+            "3. Place the folded clothes into a storage space, such as a drawer or a closet."
+        ],
+        "scan_id": "00592-CthA7sQNTPK",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to adjust the wall lamp to brighten the room. I have already identified the room. What should I do next?",
+        "answers": [
+            "1. Go to the room with the wall lamp.",
+            "2. Locate the wall lamp on the wall.",
+            "3. Adjust the angle or position of the wall lamp for better lighting.",
+            "4. Check if the light is sufficient and make further adjustments if necessary."
+        ],
+        "scan_id": "00592-CthA7sQNTPK",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading nook in this house. What should I do?",
+        "answers": [
+            "1. Go to the room with the single lamp and the teddy bear.",
+            "2. Position the teddy bear in a cozy corner.",
+            "3. Place the lamp next to the teddy bear to provide warm lighting.",
+            "4. Arrange the curtains to allow soft, natural light."
+        ],
+        "scan_id": "00835-q3zU7Yy5E5s",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading nook in this house. I have done these things: 1. positioned the teddy bear in a cozy corner. What should I do next?",
+        "answers": [
+            "2. Place the lamp next to the teddy bear to provide warm lighting."
+        ],
+        "scan_id": "00835-q3zU7Yy5E5s",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I want to decorate the room for a small gathering. What should I do?",
+        "answers": [
+            "1. Go to the room with the fireplace and the stools.",
+            "2. Arrange the stools around the fireplace for a cozy seating arrangement.",
+            "3. Ensure the curtains are draped nicely to create a pleasant ambiance.",
+            "4. Place some pillows on the stools for additional comfort."
+        ],
+        "scan_id": "00835-q3zU7Yy5E5s",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I want to decorate the room for a small gathering. I have done these things: 1. arranged the stools around the fireplace. 2. ensured the curtains are draped nicely. What should I do next?",
+        "answers": [
+            "3. Place some pillows on the stools for additional comfort."
+        ],
+        "scan_id": "00835-q3zU7Yy5E5s",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I need to clean the house efficiently. What should I do?",
+        "answers": [
+            "1. Go to the room with the baskets and the broom.",
+            "2. Use the broom to sweep the floor.",
+            "3. Collect any debris into the baskets.",
+            "4. Ensure the radiator is clear of any obstructions."
+        ],
+        "scan_id": "00835-q3zU7Yy5E5s",
+        "room_id": "sub002-sub003-sub004-sub005-sub006"
+    },
+    {
+        "question": "### human: I want to set the table for dinner. What should I do?",
+        "answers": [
+            "1. Go to the room with 3 kitchen counters and 5 lamps.",
+            "2. Collect the 5 plates and 3 cups from the kitchen counters."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: I want to set the table for dinner. I have done these things: 1. Go to the room with 3 kitchen counters and 5 lamps. 2. Collect the 5 plates and 3 cups from the kitchen counters. What should I do next?",
+        "answers": [
+            "3. Arrange the plates and cups neatly on the dining table in the same room."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: I want to prepare for bed and relax. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary bed and 2 lamps.",
+            "2. Turn on the lamps to create a gentle ambiance."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: I want to prepare for bed and relax. I have done these things: 1. Go to the room with a solitary bed and 2 lamps. 2. Turn on the lamps to create a gentle ambiance. What should I do next?",
+        "answers": [
+            "3. Lie down on the bed to rest and enjoy the tranquil atmosphere."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: I want to organize the objects in the room with multiple items. What should I do?",
+        "answers": [
+            "1. Go to the room with multiple objects.",
+            "2. Identify and classify the objects present in the room for better organization."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to prepare the kitchen area for cooking. what should i do?",
+        "answers": [
+            "1. go to the kitchen area with the kitchen counters.",
+            "2. gather the 5 plates from their location.",
+            "3. gather the 3 cups from their location.",
+            "4. place the plates and cups on the kitchen counter."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to clean the kitchen area. i have done these things: 1. gather the 5 plates from their location 2. gather the 3 cups from their location 3. place the plates and cups on the kitchen counter. what should i do next?",
+        "answers": [
+            "4. wipe down the kitchen counters with the towel.",
+            "5. dispose of any trash using the tissue box if needed.",
+            "6. ensure the stove and other appliances are turned off.",
+            "7. place the cans back in their original position."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to organize objects in the bedroom. what should i do?",
+        "answers": [
+            "1. go to the room with the bed and the nightstand.",
+            "2. place personal belongings neatly on the nightstand.",
+            "3. make sure the bed is neatly made.",
+            "4. check that the fire extinguisher is easily accessible."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to prepare the bathroom for use. what should i do?",
+        "answers": [
+            "1. go to the room with the bathtub and two lamps.",
+            "2. make sure the bathtub is clean and free of any objects.",
+            "3. turn on the lamps to ensure they are working properly.",
+            "4. check that the fire extinguisher is in place and easy to access."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to explore the room for hidden items. what should i do?",
+        "answers": [
+            "1. go to the room with the three pictures and storage box.",
+            "2. examine the three pictures carefully for any hidden details.",
+            "3. open the storage box to look for any items inside.",
+            "4. arrange any found items neatly back in the storage box or on display."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to prepare a meal. What should I do?",
+        "answers": [
+            "1. Go to the room with the kitchen counters.",
+            "2. Gather the plates and cups from their aligned positions.",
+            "3. Gather the cans.",
+            "4. Place the plates, cups, and cans on one of the counters.",
+            "5. Use the plates and cups for cooking and serving."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub004-sub005-sub007"
+    },
+    {
+        "question": "### human: I have gathered the plates and cups from their aligned positions and placed them on one of the kitchen counters. What should I do next?",
+        "answers": [
+            "Gather the cans."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub004-sub005-sub007"
+    },
+    {
+        "question": "### human: I want to take a nap. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary bed and a pair of lamps.",
+            "2. Turn off the lamps.",
+            "3. Lie down on the bed."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub004-sub005-sub007"
+    },
+    {
+        "question": "### human: I want to use the fire extinguisher for a safety check. What should I do?",
+        "answers": [
+            "1. Go to the room with the kitchen counters.",
+            "2. Locate the fire extinguisher.",
+            "3. Check the fire extinguisher for proper pressure and functionality."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub004-sub005-sub007"
+    },
+    {
+        "question": "### human: I want to freshen up in the bathroom. What should I do?",
+        "answers": [
+            "1. Go to the room with a bathtub and two lamps.",
+            "2. Turn on the lamps for better lighting.",
+            "3. Use the bathtub."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub003-sub004-sub005-sub007"
+    },
+    {
+        "question": "### human: i want to tidy up the kitchen. what should i do?",
+        "answers": [
+            "1. Go to the room with the kitchen counters.",
+            "2. Pick up the plates and stack them neatly.",
+            "3. Align the cups next to each other.",
+            "4. Place the cans together in an organized manner.",
+            "5. Wipe the kitchen counter with the towel."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to organize my personal grooming area. i have done these things: 1. arranged the towel on the rack neatly. what should i do next?",
+        "answers": [
+            "2. Place the rug on the floor.",
+            "3. Ensure the mirror is clean and in place on the wall.",
+            "4. Turn on the lamp to check the lighting."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to prepare the minimalistic room for a guest. i have done these things: 1. placed personal belongings on the nightstand. what should i do next?",
+        "answers": [
+            "2. Ensure the nightstand is clean and orderly.",
+            "3. Check the fire extinguisher to make sure it's accessible.",
+            "4. Make the room comfortable and uncluttered."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to unpack and explore the mysterious room. what should i do?",
+        "answers": [
+            "1. Go to the room with the storage box.",
+            "2. Open the storage box and examine its contents.",
+            "3. Look at the pictures to uncover any hidden stories.",
+            "4. Carefully place back the items into the storage box."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: i want to set up the utility room for relaxation. i have done these things: 1. Wiped down the bathtub. what should i do next?",
+        "answers": [
+            "2. Position the lamps to create a tranquil ambiance.",
+            "3. Check the fire extinguisher to ensure safety.",
+            "4. Make sure the bathtub is clean and ready for use."
+        ],
+        "scan_id": "00166-RaYrxWt5pR1",
+        "room_id": "sub002-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to organize the items in the room with two shelves and four lamps. What should I do?",
+        "answers": [
+            "1. Go to the room with two shelves and four lamps.",
+            "2. Pick up items that need to be organized.",
+            "3. Place the items neatly on the shelves.",
+            "4. Ensure the lamps are positioned to adequately illuminate the room.",
+            "5. Step back and admire the organized room."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub011-sub013-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: I want to organize the items in the room with two shelves and four lamps. I have done these things: 1. Go to the room with two shelves and four lamps. What should I do next?",
+        "answers": [
+            "Pick up items that need to be organized."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub011-sub013-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: I want to prepare the bathroom. What should I do?",
+        "answers": [
+            "1. Go to the room with two towels and one soap dish.",
+            "2. Place the towels neatly on the rack.",
+            "3. Position the soap dish near the sink or shower.",
+            "4. Ensure all items are accessible."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub011-sub013-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: I want to prepare the bathroom. I have done these things: 1. Go to the room with two towels and one soap dish. 2. Place the towels neatly on the rack. What should I do next?",
+        "answers": [
+            "Position the soap dish near the sink or shower."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub011-sub013-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: I want to create a decorative ambiance in the room with three pictures. What should I do?",
+        "answers": [
+            "1. Go to the room with three pictures.",
+            "2. Arrange decorative items around the room.",
+            "3. Ensure the pictures are hung at the right height.",
+            "4. Adjust lighting to highlight the decorations.",
+            "5. Step back and evaluate the ambiance."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub011-sub013-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: i want to admire the artwork in the room with four pictures and three windows. what should i do?",
+        "answers": [
+            "1. Enter the room adorned with four pictures and three windows.",
+            "2. Walk around the room to get a close view of each picture.",
+            "3. Stand in front of each picture and take a moment to observe the details.",
+            "4. Move around the room to experience the ambiance created by the natural light from the windows.",
+            "5. Take a seat, if available, to further appreciate the artistic elegance of the room."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to organize the items in the room with two cabinets and three pictures. what should i do?",
+        "answers": [
+            "1. Enter the room containing two cabinets and three pictures.",
+            "2. Approach one of the cabinets.",
+            "3. Open the cabinet doors and examine the contents.",
+            "4. Remove any items that need reorganization.",
+            "5. Arrange items neatly inside the cabinet."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to organize the items in the room with two cabinets and three pictures. i have done these things: 1. Enter the room containing two cabinets and three pictures. 2. Approach one of the cabinets. 3. Open the cabinet doors and examine the contents. 4. Remove any items that need reorganization. 5. Arrange items neatly inside the cabinet. what should i do next?",
+        "answers": [
+            "6. Move to the second cabinet.",
+            "7. Open the second cabinet doors and examine the contents.",
+            "8. Remove any items that need reorganization.",
+            "9. Arrange items neatly inside the second cabinet.",
+            "10. Step back and ensure both cabinets are organized."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading area in the room with three decorations, a window, a lamp, and three chairs. what should i do?",
+        "answers": [
+            "1. Enter the room adorned with three decorations, a window, a lamp, and three chairs.",
+            "2. Position one of the chairs near the window for natural light.",
+            "3. Place the lamp beside the chair to provide additional lighting.",
+            "4. Arrange the remaining two chairs nearby for additional seating.",
+            "5. Ensure the decorations are in view to enhance the cozy atmosphere."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set up a cozy reading area in the room with three decorations, a window, a lamp, and three chairs. I have done these things: 1. Enter the room adorned with three decorations, a window, a lamp, and three chairs. 2. Position one of the chairs near the window for natural light. 3. Place the lamp beside the chair to provide additional lighting. 4. Arrange the remaining two chairs nearby for additional seating. what should i do next?",
+        "answers": [
+            "5. Ensure the decorations are in view to enhance the cozy atmosphere.",
+            "6. Adjust the placement of the decorations if necessary to create a harmonious arrangement.",
+            "7. Sit in the chair near the window and test the lighting from the lamp.",
+            "8. Make any final adjustments to the chair and lamp positions for optimal comfort."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to admire the artworks in the room exuding sophistication. what should i do?",
+        "answers": [
+            "1. Go to the room adorned with three picturesque images.",
+            "2. Stand in front of each image.",
+            "3. Take a few moments to observe and appreciate the details in the artwork.",
+            "4. Move on to the next image and repeat the process.",
+            "5. Reflect on the overall ambiance created by the images."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub011-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: i want to read a book under proper lighting. i have done these things: 1. chosen a book. what should i do next?",
+        "answers": [
+            "2. Go to the room with four lamps.",
+            "3. Choose a comfortable spot near a lamp.",
+            "4. Turn on the lamp to ensure adequate lighting for reading.",
+            "5. Sit down and start reading your book."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub011-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: i want to arrange items on the solitary shelf. what should i do?",
+        "answers": [
+            "1. Go to the room with a solitary shelf.",
+            "2. Gather the items you want to arrange on the shelf.",
+            "3. Place the items on the shelf in an organized manner.",
+            "4. Make sure there is adequate spacing between items for a neat appearance.",
+            "5. Step back to assess the overall look and make adjustments if necessary."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub011-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: i want to illuminate the room for an evening gathering. i have done these things: 1. Selected the room for the gathering. what should i do next?",
+        "answers": [
+            "2. Go to the room with four lamps.",
+            "3. Turn on each lamp to create a well-lit environment.",
+            "4. Adjust the lamp positions if needed for optimal lighting.",
+            "5. Ensure the lighting is warm and inviting for the gathering."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub011-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: i want to enjoy the natural light in the room with windows. what should i do?",
+        "answers": [
+            "1. Go to the room adorned with 4 pictures and 3 windows.",
+            "2. Open the curtains or blinds to allow natural light to enter.",
+            "3. Find a comfortable spot to sit near one of the windows.",
+            "4. Relax and let the natural light enhance the ambiance of the room."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub009-sub011-sub014-sub016-sub018"
+    },
+    {
+        "question": "### human: I want to make the bed. What should I do?",
+        "answers": [
+            "1. Go to the bed.",
+            "2. Straighten the bed sheets and blanket.",
+            "3. Adjust the pillows and place them neatly on the bed.",
+            "4. Ensure the bedspread is smooth and evenly laid out.",
+            "5. Step away from the bed to admire the neatly made bed."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub013-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to prepare the bathroom for a guest. I have done these things: 1. Placed fresh towels on the rack.. What should I do next?",
+        "answers": [
+            "Place a new soap in the soap dish."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub013-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to prepare the bathroom for a guest. I have done these things: 1. Placed fresh towels on the rack. 2. Placed a new soap in the soap dish.. What should I do next?",
+        "answers": [
+            "Ensure the sink and toilet are clean and tidy."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub013-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set up the cozy room for a reading session. What should I do?",
+        "answers": [
+            "1. Go to the room with ample seating and decorations.",
+            "2. Adjust the lamp to provide proper lighting.",
+            "3. Arrange the chairs comfortably for reading.",
+            "4. Ensure the decorations are neatly placed and not cluttered.",
+            "5. Place a comfortable cushion on one of the chairs."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub013-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to make the toilet room ready for use. What should I do?",
+        "answers": [
+            "1. Go to the room with the solitary toilet.",
+            "2. Ensure the toilet is clean and flushed.",
+            "3. Place toilet paper on the holder.",
+            "4. Make sure there is a fresh hand towel nearby."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub013-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to arrange the bed area for a guest to stay. what should i do?",
+        "answers": [
+            "1. go to the room with six windows and a bed.",
+            "2. ensure the bed is properly made.",
+            "3. clear any clutter around the bed."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to arrange the bed area for a guest to stay. i have done these things: 1. gone to the room with six windows and a bed. 2. ensured the bed is properly made. 3. cleared any clutter around the bed. what should i do next?",
+        "answers": [
+            "4. check that the cabinets near the bed are clean and organized."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to rearrange the decorations in the cozy room with ample seating. what should i do?",
+        "answers": [
+            "1. go to the room with one window, three decorations, and three chairs.",
+            "2. move the decorations to different positions to enhance the room's style.",
+            "3. arrange the chairs to promote comfortable seating and conversation."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to rearrange the decorations in the cozy room with ample seating. i have done these things: 1. gone to the room with one window, three decorations, and three chairs. 2. moved the decorations to different positions to enhance the room's style. 3. arranged the chairs to promote comfortable seating and conversation. what should i do next?",
+        "answers": [
+            "4. test the lighting by adjusting the solitary lamp to ensure proper illumination."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to clean and organize the room with three pictures and two cabinets. what should i do?",
+        "answers": [
+            "1. go to the room with three pictures and two cabinets.",
+            "2. dust the cabinets and clean any surfaces.",
+            "3. organize items inside the cabinets neatly."
+        ],
+        "scan_id": "00366-fxbzYAGkrtm",
+        "room_id": "sub010-sub012-sub015-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to organize the bathroom essentials. what should i do?",
+        "answers": [
+            "1. go to the room with the sink",
+            "2. pick up each toiletry",
+            "3. place the toiletries neatly near the sink",
+            "4. place the towels beside the sink",
+            "5. step back to admire the organized bathroom essentials"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading nook. i have done these things: 1. place a cozy carpet on the floor. 2. place a table lamp on the table.. what should i do next?",
+        "answers": [
+            "place the books on the table or a nearby surface."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading nook. i have done these things: 1. place a cozy carpet on the floor. 2. place a table lamp on the table. 3. place the books on the table.. what should i do next?",
+        "answers": [
+            "place the speakers on either side of the room for ambient music."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up a warm and relaxing bathroom. i have done these things: 1. place a rug on the floor. 2. place toiletries near the sink.. what should i do next?",
+        "answers": [
+            "place the towels in a convenient location for easy access."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading nook. i have done these things: 1. place a cozy carpet on the floor. 2. place a table lamp on the table. 3. place the books on the table. 4. place the speakers on either side of the room.. what should i do next?",
+        "answers": [
+            "step back and enjoy your new reading nook"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up a dining table. what should i do?",
+        "answers": [
+            "1. go to the dining area",
+            "2. place the dining table in the center of the dining area",
+            "3. arrange chairs around the dining table",
+            "4. place plates, utensils, and glasses on the table",
+            "5. place a centerpiece on the table"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub020-sub021"
+    },
+    {
+        "question": "### human: i want to prepare a meal. i have done these things: 1. gather ingredients from the kitchen.. what should i do next?",
+        "answers": [
+            "2. go to the stove",
+            "3. place a pan on the stove",
+            "4. cook the ingredients in the pan",
+            "5. serve the meal on a plate",
+            "6. set the plate on the dining table"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub020-sub021"
+    },
+    {
+        "question": "### human: i want to clean the dining area. i have done these things: 1. clear the table of dishes.. what should i do next?",
+        "answers": [
+            "2. wipe down the table",
+            "3. sweep the floor",
+            "4. mop the floor for a thorough clean",
+            "5. dispose of any trash in the trash can"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub020-sub021"
+    },
+    {
+        "question": "### human: i want to prepare the room for guests. i have done these things: 1. tidy up the seating area. 2. place decorative items on the table.. what should i do next?",
+        "answers": [
+            "3. ensure the room is well-lit",
+            "4. arrange the seats in a welcoming manner",
+            "5. place beverages and snacks on the table",
+            "6. ensure there are no obstacles in the walkway"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub020-sub021"
+    },
+    {
+        "question": "### human: i want to reorganize the seating area. i have done these things: 1. clear the furniture from the middle of the room.. what should i do next?",
+        "answers": [
+            "2. position the chairs against the walls",
+            "3. place the table at the center",
+            "4. arrange the chairs around the table",
+            "5. add cushions to the chairs"
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub020-sub021"
+    },
+    {
+        "question": "### human: i want to tidy up the bathroom. what should i do?",
+        "answers": [
+            "1. Pick up the toiletries from the sink.",
+            "2. Place the toiletries in the basket.",
+            "3. Arrange the basket neatly to the left of the bag.",
+            "4. Adjust the rug to make sure it is laying flat and positioned correctly behind the basket.",
+            "5. Ensure the entire sink area is clean and tidy."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub014-sub016-sub019-sub022"
+    },
+    {
+        "question": "### human: i want to organize suitcase area. i have done these things: 1. placed clothing above the suitcase. what should i do next?",
+        "answers": [
+            "2. Adjust the suitcase so it is neatly positioned in front of the radiators."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub014-sub016-sub019-sub022"
+    },
+    {
+        "question": "### human: i want to organize suitcase area. i have done these things: 1. placed clothing above the suitcase. 2. placed the suitcase in front of the radiators. what should i do next?",
+        "answers": [
+            "3. Place the tissue box on the suitcase."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub014-sub016-sub019-sub022"
+    },
+    {
+        "question": "### human: i want to create a relaxing atmosphere in the room with two rugs. what should i do?",
+        "answers": [
+            "1. Ensure the rugs are laid out flat on the floor.",
+            "2. Adjust the rugs so that they are in appropriate positions, adding to the aesthetic appeal of the room.",
+            "3. Arrange any other visible items in the room to enhance comfort and tranquility."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub014-sub016-sub019-sub022"
+    },
+    {
+        "question": "### human: i want to organize the room with three pictures and a tissue box. i have done these things: 1. positioned the tissue box on a surface in the room. 2. placed the clothing in a visible position. what should i do next?",
+        "answers": [
+            "3. Adjust the pictures on the walls to ensure they are evenly spaced and aligned."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub014-sub016-sub019-sub022"
+    },
+    {
+        "question": "### human: I want to organize a small meeting in a room. What should I do?",
+        "answers": [
+            "1. Go to the room with 9 chairs.",
+            "2. Arrange the chairs in a circle or around a focal point.",
+            "3. Ensure that the clock is visible for timekeeping.",
+            "4. Adjust the curtains for appropriate lighting.",
+            "5. Place the box and basket in a corner to clear space for the meeting."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to prepare a meal. I have entered the kitchen. What should I do next?",
+        "answers": [
+            "1. Identify the stovetop and range hood.",
+            "2. Gather ingredients and utensils from the shelves.",
+            "3. Ensure cleanliness by using the towels if necessary.",
+            "4. Retrieve items from the refrigerators."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to organize my shoes in the room with racks. What should I do?",
+        "answers": [
+            "1. Go to the room with two shoe racks.",
+            "2. Retrieve your shoes.",
+            "3. Place the shoes neatly on the racks."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to create a relaxing reading nook. I have gathered my books and placed them in the room with many pictures. What should I do next?",
+        "answers": [
+            "1. Arrange the chairs to create a comfortable reading area.",
+            "2. Stack the pictures to ensure they are out of the way.",
+            "3. Adjust the curtains to control the lighting.",
+            "4. Place the basket nearby to store small items or additional reading materials."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub009-sub010"
+    },
+    {
+        "question": "### human: I want to clean the kitchen. I have picked up the cleaning supplies. What should I do next?",
+        "answers": [
+            "1. Use the towels to wipe down the stovetop and range hood.",
+            "2. Clean the shelves and organize any items.",
+            "3. Ensure the refrigerators are clean and organized."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to organize all the clothing items in the bedroom. what should i do?",
+        "answers": [
+            "1. Go to the wardrobe.",
+            "2. Open the wardrobe doors.",
+            "3. Take out the clothing items one by one.",
+            "4. Fold or hang the clothing items neatly.",
+            "5. Place the folded or hung clothing back into the wardrobe.",
+            "6. Close the wardrobe doors."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub011-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to prepare the bedroom for guests. i have done these things: 1. made the bed. 2. arranged the dresser. what should i do next?",
+        "answers": [
+            "3. Organize the box by the bed.",
+            "4. Move the bag to a less conspicuous location."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub011-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to set up the living room for a movie night. what should i do?",
+        "answers": [
+            "1. Turn on the table lamp for ambient lighting.",
+            "2. Position the speakers for optimal sound.",
+            "3. Arrange the seating area for comfort.",
+            "4. Place the books aside to create more space."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub011-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to prepare the living room for a cozy evening. i have done these things: 1. turned on the table lamp. what should i do next?",
+        "answers": [
+            "2. Spread out the carpet for added comfort.",
+            "3. Adjust the curtains for privacy."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub011-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: i want to clean the bathroom. what steps should i follow?",
+        "answers": [
+            "1. Gather the toiletries and organize them in a designated area.",
+            "2. Replace the towels with clean ones.",
+            "3. Clean the soap dish.",
+            "4. Wipe down the radiator."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub011-sub015-sub017-sub020-sub022"
+    },
+    {
+        "question": "### human: I want to wash my hands. What steps should I follow?",
+        "answers": [
+            "1. Go to the room with the sink.",
+            "2. Approach the sink.",
+            "3. Turn on the water faucet.",
+            "4. Rinse your hands under the water."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub016-sub018-sub019-sub020"
+    },
+    {
+        "question": "### human: I want to tidy up the room with the basket, bag, and toiletries. What should I do?",
+        "answers": [
+            "1. Go to the room with the basket, bag, and toiletries.",
+            "2. Pick up each toiletry and place it neatly in the basket.",
+            "3. Place the bag in a corner or on a designated shelf."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub016-sub018-sub019-sub020"
+    },
+    {
+        "question": "### human: I want to relax in the room with two rugs. I have already entered the room. What should I do next?",
+        "answers": [
+            "1. Sit or lie down on one of the rugs.",
+            "2. Take a few deep breaths and focus on relaxing."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub016-sub018-sub019-sub020"
+    },
+    {
+        "question": "### human: I want to admire the pictures in the room with three pictures. What should I do?",
+        "answers": [
+            "1. Go to the room with three pictures.",
+            "2. Approach each picture one by one.",
+            "3. Spend a moment observing and appreciating the details in each picture."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub016-sub018-sub019-sub020"
+    },
+    {
+        "question": "### human: I want to ensure safety in the room with a handrail. What steps should I follow?",
+        "answers": [
+            "1. Go to the room with the handrail.",
+            "2. Check that the handrail is securely attached to the wall.",
+            "3. Test the handrail to make sure it provides adequate support."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub012-sub016-sub018-sub019-sub020"
+    },
+    {
+        "question": "### human: I want to organize the kitchen. I have done these things: 1. Clean the countertops. What should I do next?",
+        "answers": [
+            "2. Put the food containers into the kitchen cabinets."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to organize the kitchen. I have done these things: 1. Clean the countertops, 2. Put the food containers into the kitchen cabinets. What should I do next?",
+        "answers": [
+            "3. Arrange the towels neatly."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to decorate the room with the clock. I have done these things: 1. Hang up the curtains. What should I do next?",
+        "answers": [
+            "2. Arrange the pictures in a visually appealing manner on the walls."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to set up the bathroom. What should I do?",
+        "answers": [
+            "1. Place the sink in a convenient spot.",
+            "2. Position the bathroom vanity next to the sink."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to set up a shoe area. I have done these things: 1. Place one shoe rack in the room with a window. What should I do next?",
+        "answers": [
+            "2. Place the second shoe rack next to the first one."
+        ],
+        "scan_id": "00064-gQgtJ9Stk5s",
+        "room_id": "sub003-sub004-sub005-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to set up a reading nook in the room with the stool. What should I do?",
+        "answers": [
+            "1. Place the stool near one of the lamps.",
+            "2. Ensure the lamp is turned on.",
+            "3. Place the remote control within easy reach.",
+            "4. Adjust the curtains to allow a comfortable amount of light from the window for reading."
+        ],
+        "scan_id": "00848-ziup5kvtCCR",
+        "room_id": "sub003-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up a reading nook in the room with the stool. I have done these things: 1. Place the stool near one of the lamps. What should I do next?",
+        "answers": [
+            "Ensure the lamp is turned on."
+        ],
+        "scan_id": "00848-ziup5kvtCCR",
+        "room_id": "sub003-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up a reading nook in the room with the stool. I have done these things: 1. Place the stool near one of the lamps. 2. Ensure the lamp is turned on. What should I do next?",
+        "answers": [
+            "Place the remote control within easy reach."
+        ],
+        "scan_id": "00848-ziup5kvtCCR",
+        "room_id": "sub003-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up a reading nook in the room with the stool. I have done these things: 1. Place the stool near one of the lamps. 2. Ensure the lamp is turned on. 3. Place the remote control within easy reach. What should I do next?",
+        "answers": [
+            "Adjust the curtains to allow a comfortable amount of light from the window for reading."
+        ],
+        "scan_id": "00848-ziup5kvtCCR",
+        "room_id": "sub003-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to create a cozy corner in the room with the sign and potted plant. What should I do?",
+        "answers": [
+            "1. Place the potted plant in a corner where it can be seen.",
+            "2. Position the sign on a nearby wall where its message is clearly visible.",
+            "3. Ensure the area around the potted plant is clean and uncluttered."
+        ],
+        "scan_id": "00848-ziup5kvtCCR",
+        "room_id": "sub003-sub004-sub005-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to arrange an art appreciation gathering in the room with four pictures. What should I do?",
+        "answers": [
+            "1. Enter the room with four pictures.",
+            "2. Arrange seating in a circle or semi-circle facing the pictures.",
+            "3. Ensure there is enough space for people to comfortably view the artworks.",
+            "4. Step back and make sure the seating arrangement allows for clear views of all pictures."
+        ],
+        "scan_id": "00016-qk9eeNeR4vw",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to organize the storage boxes in the room with two storage boxes. What should I do?",
+        "answers": [
+            "1. Go to the room with two storage boxes.",
+            "2. Pick up the storage boxes one by one.",
+            "3. Place the storage boxes neatly in a corner to maximize space."
+        ],
+        "scan_id": "00016-qk9eeNeR4vw",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to organize the books on the shelf in the room with a solitary shelf and a cabinet. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary shelf and a cabinet.",
+            "2. Pick up the books one by one.",
+            "3. Arrange the books on the shelf in a neat and organized manner.",
+            "4. Ensure that the heaviest books are placed at the bottom for stability."
+        ],
+        "scan_id": "00016-qk9eeNeR4vw",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to arrange the items in the solitary cabinet. I have done these things: 1. Gone to the solitary cabinet room. What should I do next?",
+        "answers": [
+            "2. Open the cabinet door."
+        ],
+        "scan_id": "00016-qk9eeNeR4vw",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### human: I want to set up a reading nook. I have done these things: 1. Placed a comfortable chair in the room with two pictures and a table. What should I do next?",
+        "answers": [
+            "2. Place a small lamp on the table."
+        ],
+        "scan_id": "00016-qk9eeNeR4vw",
+        "room_id": "sub002-sub003-sub004-sub006-sub007"
+    },
+    {
+        "question": "### Human: I want to organize the dressers. What should I do?",
+        "answers": [
+            "1. Go to the room with three dressers.",
+            "2. Open the drawers of each dresser one by one.",
+            "3. Remove any items that do not belong.",
+            "4. Neatly fold and place clothes and personal items back in the drawers.",
+            "5. Close the drawers and admire the organized dressers."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### Human: I want to organize the desk in the study room. What should I do next?",
+        "answers": [
+            "1. Clear any clutter off the desk.",
+            "2. Place the essential items back on the desk in an organized manner."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### Human: I want to organize the desk in the study room. I have done these things: 1. Clear any clutter off the desk. 2. Place the essential items back on the desk in an organized manner. What should I do next?",
+        "answers": [
+            "3. Organize the storage boxes around the desk."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### Human: I want to rearrange the pictures on the walls. What should I do first?",
+        "answers": [
+            "1. Go to the room with four exquisite pictures on the walls.",
+            "2. Carefully remove each picture from the wall."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### Human: I want to rearrange the pictures on the walls. I have done these things: 1. Carefully remove each picture from the wall. What should I do next?",
+        "answers": [
+            "2. Decide on a new arrangement for the pictures.",
+            "3. Hang the pictures back on the walls in the new arrangement."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to organize the toiletries in the dressing area. What should I do?",
+        "answers": [
+            "1. Go to the room with three dressers, one pipe, two curtains, one bag, one mirror, and ten toiletries.",
+            "2. Collect all the toiletries from around the room.",
+            "3. Open one of the dressers.",
+            "4. Place the toiletries neatly inside the dresser."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to set up my desk for work. What should I do?",
+        "answers": [
+            "1. Go to the room with a desk, two vents, and three storage boxes.",
+            "2. Remove any clutter from the desk."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to set up my desk for work. I have done these things: 1. Go to the room with a desk, two vents, and three storage boxes. 2. Remove any clutter from the desk. What should I do next?",
+        "answers": [
+            "3. Place your essential work items on the desk, such as a computer, notepad, and writing utensils.",
+            "4. Position the storage boxes in an organized manner around the room for easy access."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to create a relaxing area in the room with pillows and a desk. What should I do?",
+        "answers": [
+            "1. Go to the room with a single desk and three pillows.",
+            "2. Gather the three pillows."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to create a relaxing area in the room with pillows and a desk. I have done these things: 1. Go to the room with a single desk and three pillows. 2. Gather the three pillows. What should I do next?",
+        "answers": [
+            "3. Arrange the pillows in a comfortable seating area near the desk.",
+            "4. Ensure the pillows are neatly placed and the area looks inviting."
+        ],
+        "scan_id": "00382-S7uMvxjBVZq",
+        "room_id": "sub008-sub009-sub011-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to wash my hands. What should I do?",
+        "answers": [
+            "1. Go to the room with a single sink.",
+            "2. Turn on the faucet.",
+            "3. Wet your hands under the running water.",
+            "4. Apply soap and scrub your hands together.",
+            "5. Rinse the soap off with water.",
+            "6. Turn off the faucet.",
+            "7. Dry your hands with a towel."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to store my clothes. What should I do?",
+        "answers": [
+            "1. Go to the room with a solitary closet rod.",
+            "2. Bring your clothes to the closet rod.",
+            "3. Hang each piece of clothing on the rod using hangers.",
+            "4. Organize the hung clothes as desired.",
+            "5. Step back and ensure all clothes are neatly arranged."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to ensure the room is safe from smoke. I have done these things: 1. Check that the smoke detector has batteries.. What should I do next?",
+        "answers": [
+            "Test the smoke detector to ensure it is functioning properly."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to create a cozy reading nook. I have done these things: 1. Set up lamps for good lighting.. What should I do next?",
+        "answers": [
+            "Place a comfortable chair or cushion under the lamps.",
+            "Arrange some books or magazines within reach."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to decorate a room. I have done these things: 1. Hang pictures on the walls.. What should I do next?",
+        "answers": [
+            "Place pillows on the furniture for added comfort and style."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: i want to organize a cozy reading corner. what should i do?",
+        "answers": [
+            "1. go to the room with 2 armchairs and 8 curtains.",
+            "2. position the armchairs for optimal comfort facing each other.",
+            "3. adjust the curtains to allow soft sunlight to filter through.",
+            "4. add a reading lamp next to one armchair."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub002-sub003-sub004-sub005"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading corner. i have done these things: 1. go to the room with 2 armchairs and 8 curtains. 2. position the armchairs for optimal comfort facing each other. 3. adjust the curtains to allow soft sunlight to filter through. what should i do next?",
+        "answers": [
+            "4. add a reading lamp next to one armchair."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub002-sub003-sub004-sub005"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading corner. i have done these things: 1. go to the room with 2 armchairs and 8 curtains. 2. position the armchairs for optimal comfort facing each other. 3. adjust the curtains to allow soft sunlight to filter through. 4. add a reading lamp next to one armchair. what should i do next?",
+        "answers": [
+            "5. place a small table between the armchairs for placing books."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub002-sub003-sub004-sub005"
+    },
+    {
+        "question": "### human: I want to set up an elegant living room. what should i do?",
+        "answers": [
+            "1. go to the room with 14 lamps and 6 windows.",
+            "2. arrange the 2 armchairs facing each other.",
+            "3. place 8 pillows on the armchairs for added comfort.",
+            "4. decorate the room with the 11 vases and 8 pictures."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub002-sub003-sub004-sub005"
+    },
+    {
+        "question": "### human: I want to set up an elegant living room. I have done these things: 1. go to the room with 14 lamps and 6 windows. 2. arrange the 2 armchairs facing each other. 3. place 8 pillows on the armchairs for added comfort. what should i do next?",
+        "answers": [
+            "4. decorate the room with the 11 vases and 8 pictures."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub002-sub003-sub004-sub005"
+    },
+    {
+        "question": "### human: I want to illuminate the room for reading. What should I do?",
+        "answers": [
+            "1. Go to the room with 5 lamps.",
+            "2. Turn on each of the 5 lamps to cast a warm glow in the room."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to set up a cozy resting space. I have done these things: 1. Placed the pillows. What should I do next?",
+        "answers": [
+            "2. Arrange the pillows neatly to create a comfortable resting area."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to store my clothes neatly. What should I do?",
+        "answers": [
+            "1. Go to the room with the dresser.",
+            "2. Open the dresser.",
+            "3. Place your clothes inside the dresser neatly."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I need to check all the safety measures in the house. I have done these things: 1. Checked the smoke detector in the room with six pictures. What should I do next?",
+        "answers": [
+            "2. Ensure the smoke detector battery is functional."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to wash my hands. I have done these things: 1. Found the sink in the room with a solitary sink. What should I do next?",
+        "answers": [
+            "2. Turn on the tap to let the water flow.",
+            "3. Wash your hands under the running water."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub011-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to clean the sink. What should I do?",
+        "answers": [
+            "1. Go to the room with the sink and five lamps.",
+            "2. Turn on the lights if needed.",
+            "3. Gather cleaning supplies.",
+            "4. Clean the sink thoroughly.",
+            "5. Rinse off any cleaning products.",
+            "6. Wipe down the surrounding area and turn off the lights if needed."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to organize the pictures on the wall. What should I do?",
+        "answers": [
+            "1. Go to the room with six pictures and a dresser.",
+            "2. Examine the current arrangement of the pictures.",
+            "3. Carefully remove the pictures from the wall.",
+            "4. Decide on a new layout for the pictures.",
+            "5. Rehang the pictures in the new layout.",
+            "6. Make sure the pictures are level and evenly spaced."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to set up a workstation. I have done these things: 1. Positioned the desk in the room. What should I do next?",
+        "answers": [
+            "2. Place the chair to the left of the desk.",
+            "3. Ensure the desk is clear and organized.",
+            "4. Place essential work items on the desk, such as a computer or notebook."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to decorate the room with the curtain. I have done these things: 1. Hung the curtain. 2. Added decorative elements. What should I do next?",
+        "answers": [
+            "3. Arrange the room's furniture to complement the decor.",
+            "4. Ensure the faucets are clean and functioning properly."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: I want to clean all the sinks in the house. I have done these things: 1. Cleaned the sink in the room with the five lamps. 2. Cleaned the sink in the solitary room. What should I do next?",
+        "answers": [
+            "3. Clean the sink in the room with two faucets."
+        ],
+        "scan_id": "00810-CrMo8WxCyVb",
+        "room_id": "sub008-sub009-sub012-sub013-sub015"
+    },
+    {
+        "question": "### human: i want to give a speech in the study or library. what should i do?",
+        "answers": [
+            "1. go to the room with the podium and rug",
+            "2. stand behind the podium facing the rug",
+            "3. ensure that any notes or materials needed for the speech are placed on the podium",
+            "4. start delivering your speech"
+        ],
+        "scan_id": "00741-w8GiikYuFRk",
+        "room_id": "sub006-sub007-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to admire the statues. i have done these things: 1. enter the room with the art and electric panels. 2. approach the podiums with the statues.. what should i do next?",
+        "answers": [
+            "3. observe the statues from different angles to appreciate the details",
+            "4. step back and take in the overall arrangement of the artwork"
+        ],
+        "scan_id": "00741-w8GiikYuFRk",
+        "room_id": "sub006-sub007-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to organize an exhibition of pictures. what should i do?",
+        "answers": [
+            "1. go to the room with multiple pictures on display",
+            "2. review the placement of each picture and decide on any changes required",
+            "3. adjust the pictures to achieve a balanced and aesthetically pleasing arrangement",
+            "4. ensure all pictures are securely mounted"
+        ],
+        "scan_id": "00741-w8GiikYuFRk",
+        "room_id": "sub006-sub007-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to clean the study or library. i have done these things: 1. collect trash and remove clutter. 2. dust the bookshelves and podium.. what should i do next?",
+        "answers": [
+            "3. vacuum or sweep the rug",
+            "4. wipe down the rack stand and other surfaces",
+            "5. organize the books on the bookshelves"
+        ],
+        "scan_id": "00741-w8GiikYuFRk",
+        "room_id": "sub006-sub007-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to check the technological equipment. what should i do?",
+        "answers": [
+            "1. go to the room with electric panels and statues",
+            "2. inspect each electric panel for any signs of malfunction or maintenance needs",
+            "3. test the functionality of the equipment connected to the panels",
+            "4. document any issues found and report them for repair"
+        ],
+        "scan_id": "00741-w8GiikYuFRk",
+        "room_id": "sub006-sub007-sub008-sub009-sub010"
+    },
+    {
+        "question": "### human: i want to make the bed. what should i do?",
+        "answers": [
+            "1. go to the room with the bed.",
+            "2. straighten the bedsheets.",
+            "3. fluff the pillows.",
+            "4. arrange the pillows neatly on the bed.",
+            "5. adjust the comforter so it is evenly spread."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to draw the curtains. i have done these things: 1. locate the windows with the curtains in the room. what should i do next?",
+        "answers": [
+            "2. grip the edges of the curtains.",
+            "3. pull the curtains together to cover the windows."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to set the table for dinner. what should i do?",
+        "answers": [
+            "1. go to the room with the table.",
+            "2. place a placemat at each seat.",
+            "3. set a plate on each placemat.",
+            "4. place utensils beside each plate.",
+            "5. put a glass at each setting."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to wash my hands. i have done these things: 1. go to the room with the sink. what should i do next?",
+        "answers": [
+            "2. turn on the faucet.",
+            "3. wet your hands with water.",
+            "4. apply soap.",
+            "5. scrub your hands together.",
+            "6. rinse your hands with water.",
+            "7. turn off the faucet.",
+            "8. dry your hands using a towel."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to hang the pictures on the wall. what should i do?",
+        "answers": [
+            "1. go to the room with the pictures.",
+            "2. choose a spot on the wall for each picture.",
+            "3. hammer a nail or use a hook at the chosen spots.",
+            "4. hang each picture on the nail or hook.",
+            "5. adjust the pictures to make sure they are straight."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub002-sub003-sub005-sub006-sub008"
+    },
+    {
+        "question": "### human: i want to wash my hands. what should i do?",
+        "answers": [
+            "1. go to the room with a solitary sink.",
+            "2. turn on the sink.",
+            "3. wash your hands using the sink.",
+            "4. turn off the sink.",
+            "5. use one of the towels to dry your hands."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub003-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to relax in a cozy room. what should i do?",
+        "answers": [
+            "1. go to the room adorned with 4 pictures and 2 curtains.",
+            "2. sit down among the 6 pillows."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub003-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to clean my body. i have done these things: 1. go to the room with the solitary shower faucet handle.. what should i do next?",
+        "answers": [
+            "1. turn on the shower faucet handle.",
+            "2. adjust the water temperature to your liking.",
+            "3. step into the shower area and bathe.",
+            "4. turn off the shower faucet handle when done."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub003-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i want to dry my hands after washing them. i have done these things: 1. go to the room with a solitary sink. 2. turn on the sink. 3. wash your hands using the sink. 4. turn off the sink.. what should i do next?",
+        "answers": [
+            "1. use one of the towels to dry your hands."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub003-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: i need to relax and unwind. i have done these things: 1. go to the room adorned with 4 pictures and 2 curtains.. what should i do next?",
+        "answers": [
+            "1. sit down among the 6 pillows and relax."
+        ],
+        "scan_id": "00440-wPLokgvCnuk",
+        "room_id": "sub003-sub005-sub006-sub007-sub008"
+    },
+    {
+        "question": "### human: I want to organize the storage boxes in the room with a single window. What should I do?",
+        "answers": [
+            "1. Go to the room with a single window.",
+            "2. Locate the solitary storage box.",
+            "3. Arrange and categorize the items inside the storage box neatly.",
+            "4. Ensure the storage box is placed in a corner for easy access."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub008-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to set up a workstation in the room with a computer tower. I have placed the computer tower and the storage boxes. What should I do next?",
+        "answers": [
+            "1. Position a chair in front of the computer tower.",
+            "2. Arrange the six bags to be easily accessible near the workstation."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub008-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to decorate the room with three pictures and a basket. What steps should I follow?",
+        "answers": [
+            "1. Go to the room with three pictures.",
+            "2. Ensure the pictures are properly aligned and straight on the wall.",
+            "3. Place the basket in a visible but not obstructive location.",
+            "4. Place the towel neatly inside the basket for a tidy appearance."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub008-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to create a cozy reading nook in the room with a single rug and laundry baskets. I have placed the rug. What should I do next?",
+        "answers": [
+            "1. Arrange the two laundry baskets beside the rug.",
+            "2. Place the lamp near the rug for adequate lighting.",
+            "3. Move some clothes to one of the laundry baskets for a neat appearance.",
+            "4. Arrange the pictures and baskets in the room to enhance the cozy ambiance."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub008-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to ensure that all the lamps in the room with 14 storage boxes are functional. I have checked one lamp. What should I do next?",
+        "answers": [
+            "1. Locate the second lamp in the room.",
+            "2. Plug in the second lamp and ensure it is working properly.",
+            "3. Adjust the placement of both lamps for optimal illumination."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub008-sub010-sub012-sub013"
+    },
+    {
+        "question": "### human: I want to prepare the bedroom for sleep. What should I do?",
+        "answers": [
+            "1. Go to the room with a bed.",
+            "2. Turn off the TV if it's on.",
+            "3. Arrange the pillows on the bed.",
+            "4. Pull the blanket or comforter back to get the bed ready for sleeping.",
+            "5. Turn on the lamp for better lighting."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to prepare the bedroom for sleep. I have done these things: 1. go to the room with a bed. 2. turn off the TV if it's on. 3. arrange the pillows on the bed. what should I do next?",
+        "answers": [
+            "4. Pull the blanket or comforter back to get the bed ready for sleeping."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to prepare the bedroom for sleep. I have done these things: 1. go to the room with a bed. 2. turn off the TV if it's on. 3. arrange the pillows on the bed. 4. Pull the blanket or comforter back to get the bed ready for sleeping. what should I do next?",
+        "answers": [
+            "5. Turn on the lamp for better lighting."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to do laundry. What should I do?",
+        "answers": [
+            "1. Go to the room with two laundry baskets.",
+            "2. Collect the clothes from the room and put them in the laundry baskets.",
+            "3. Take the laundry baskets to the washing machine.",
+            "4. Load the clothes into the washing machine.",
+            "5. Start the washing machine."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to do laundry. I have done these things: 1. go to the room with two laundry baskets. 2. collect the clothes from the room and put them in the laundry baskets. What should I do next?",
+        "answers": [
+            "3. Take the laundry baskets to the washing machine."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to do laundry. I have done these things: 1. go to the room with two laundry baskets. 2. collect the clothes from the room and put them in the laundry baskets. 3. take the laundry baskets to the washing machine. What should I do next?",
+        "answers": [
+            "4. Load the clothes into the washing machine."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to organize the storage room. What should I do?",
+        "answers": [
+            "1. Go to the room with 14 storage boxes.",
+            "2. Arrange the storage boxes in a neat and organized manner.",
+            "3. Place the bags in an accessible spot for easy transportation.",
+            "4. Ensure the lamps are in a position that provides good illumination.",
+            "5. Organize the remaining items in the room to make sure it is tidy."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to organize the storage room. I have done these things: 1. go to the room with 14 storage boxes. 2. arrange the storage boxes in a neat and organized manner. 3. place the bags in an accessible spot for easy transportation. What should I do next?",
+        "answers": [
+            "4. Ensure the lamps are in a position that provides good illumination."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to organize the storage room. I have done these things: 1. go to the room with 14 storage boxes. 2. arrange the storage boxes in a neat and organized manner. 3. place the bags in an accessible spot for easy transportation. 4. ensure the lamps are in a position that provides good illumination. What should I do next?",
+        "answers": [
+            "5. Organize the remaining items in the room to make sure it is tidy."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to clean the restroom. What should I do?",
+        "answers": [
+            "1. Go to the room with two sinks and a toilet paper.",
+            "2. Clean the sinks thoroughly with appropriate cleaning supplies.",
+            "3. Clean the faucets to remove any dirt or grime.",
+            "4. Wipe down the lamps and cabinets to remove dust.",
+            "5. Replace the toilet paper if needed."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to clean the restroom. I have done these things: 1. go to the room with two sinks and a toilet paper. 2. clean the sinks thoroughly with appropriate cleaning supplies. 3. clean the faucets to remove any dirt or grime. What should I do next?",
+        "answers": [
+            "4. Wipe down the lamps and cabinets to remove dust."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to clean the restroom. I have done these things: 1. go to the room with two sinks and a toilet paper. 2. clean the sinks thoroughly with appropriate cleaning supplies. 3. clean the faucets to remove any dirt or grime. 4. wipe down the lamps and cabinets to remove dust. What should I do next?",
+        "answers": [
+            "5. Replace the toilet paper if needed."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub007-sub009-sub010-sub011-sub014"
+    },
+    {
+        "question": "### human: I want to organize the storage boxes in the main room. What should I do?",
+        "answers": [
+            "1. Go to the room with a sink and storage boxes.",
+            "2. Pick up the storage boxes one by one.",
+            "3. Stack the storage boxes neatly, ensuring one supports the other securely.",
+            "4. Place the hair brush back on top of one of the storage boxes.",
+            "5. Step back to ensure the storage boxes are neatly organized."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to arrange the basket in the main room. I have done these things: 1. Pick up the storage boxes one by one. What should I do next?",
+        "answers": [
+            "Stack the storage boxes neatly, ensuring one supports the other securely."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I am organizing the storage boxes. I have done these things: 1. Pick up the storage boxes one by one. 2. Stack the storage boxes neatly, ensuring one supports the other securely. What should I do next?",
+        "answers": [
+            "Place the hair brush back on top of one of the storage boxes."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I am organizing the basket in the main room. I have done these things: 1. Pick up and stack the storage boxes neatly. 2. Place the hair brush back on top of one storage box. What should I do next?",
+        "answers": [
+            "Step back to ensure the storage boxes are neatly organized."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to set up a relaxing corner in the minimalist room. What should I do?",
+        "answers": [
+            "1. Go to the room with the toilet paper and lamp.",
+            "2. Position the lamp to cast a warm glow.",
+            "3. Ensure the toilet paper is easily accessible.",
+            "4. Remove any unnecessary items to maintain a minimalist style.",
+            "5. Step back and admire the organized, relaxing space."
+        ],
+        "scan_id": "00135-HeSYRw7eMtG",
+        "room_id": "sub002-sub003"
+    },
+    {
+        "question": "### human: I want to set the table for dinner. What should I do?",
+        "answers": [
+            "1. Go to the room with multiple seating options and a sink.",
+            "2. Select a table in the room.",
+            "3. Place plates on the table.",
+            "4. Position cutlery beside each plate."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub015-sub016-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set the table for dinner. I have done these things: 1. Go to the room with multiple seating options and a sink. 2. Select a table in the room. 3. Place plates on the table. What should I do next?",
+        "answers": [
+            "Position cutlery beside each plate."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub015-sub016-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set up a spa experience. What should I do?",
+        "answers": [
+            "1. Go to the room with elegant decorations and a towel.",
+            "2. Arrange the towel neatly.",
+            "3. Create a relaxing ambiance with the decorations."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub015-sub016-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to set up a spa experience. I have done these things: 1. Go to the room with elegant decorations and a towel. 2. Arrange the towel neatly. What should I do next?",
+        "answers": [
+            "Create a relaxing ambiance with the decorations."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub015-sub016-sub017-sub018"
+    },
+    {
+        "question": "### human: I want to organize the kitchen. What should I do?",
+        "answers": [
+            "1. Go to the room with two kitchen cabinets.",
+            "2. Open the kitchen cabinets.",
+            "3. Arrange the items inside the cabinets in an orderly manner."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub015-sub016-sub017-sub018"
+    },
+    {
+        "question": "### human: i want to organize a travel packing station. what should i do?",
+        "answers": [
+            "1. Go to the room with six shelves and two suitcases.",
+            "2. Place the suitcases on the floor.",
+            "3. Organize the shelves with travel essentials.",
+            "4. Pack the travel essentials into the suitcases.",
+            "5. Close the suitcases and place them back in the room."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub004-sub005-sub006-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to set up a cozy reading corner. i have done these things: 1. move the sofa chair to a comfortable spot. what should i do next?",
+        "answers": [
+            "2. Arrange the three pictures on the wall near the sofa chair."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub004-sub005-sub006-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to create a stylish display in the room. i have done these things: 1. position four blinds properly. 2. place the table in the center of the room. 3. arrange 26 pictures on the wall. what should i do next?",
+        "answers": [
+            "4. Place the alarm on the table."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub004-sub005-sub006-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to set up a bedroom. i have done these things: 1. position two dressers in the room. 2. place a lamp on one of the dressers. 3. hang three blinds on the windows. what should i do next?",
+        "answers": [
+            "4. Turn on the lamp to create a warm glow in the room."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub004-sub005-sub006-sub010-sub012"
+    },
+    {
+        "question": "### human: i want to prepare a functional snack station. i have done these things: 1. go to the room with a sink and towels. what should i do next?",
+        "answers": [
+            "2. Place necessary utensils and snacks on the sink's surface."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub004-sub005-sub006-sub010-sub012"
+    },
+    {
+        "question": "### human: I want to set up a dining area for a gathering. What should I do?",
+        "answers": [
+            "1. Go to the room with 6 windows, 13 chairs, and 3 tables. 2. Arrange the chairs around the tables in an orderly manner. 3. Ensure that the vase is positioned to the right of the table."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub009-sub015-sub016-sub017"
+    },
+    {
+        "question": "### human: I want to add a touch of personality to a room. I have done these things: 1. Chosen a chair to place in the room. What should I do next?",
+        "answers": [
+            "Hang the pictures on the walls."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub009-sub015-sub016-sub017"
+    },
+    {
+        "question": "### human: I want to arrange a relaxing space for a spa experience. I have done these things: 1. Selected the room with six decorations and a towel. What should I do next?",
+        "answers": [
+            "Arrange the decorations in a harmonious manner."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub009-sub015-sub016-sub017"
+    },
+    {
+        "question": "### human: I want to organize a storage space in the kitchen. I have done these things: 1. Selected the room with two kitchen cabinets. What should I do next?",
+        "answers": [
+            "Ensure the cabinets are symmetrically positioned side by side."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub009-sub015-sub016-sub017"
+    },
+    {
+        "question": "### human: I want to create a multi-functional room for meetings and gatherings. I have done these things: 1. Placed the tables and chairs. 2. Arranged the dressers behind the chairs. What should I do next?",
+        "answers": [
+            "Position the vase behind the dresser."
+        ],
+        "scan_id": "00238-j6fHrce9pHR",
+        "room_id": "sub002-sub009-sub015-sub016-sub017"
+    },
+    {
+        "question": "### human: i want to decorate the room with the bed. what should i do?",
+        "answers": [
+            "1. go to the room with the bed 2. place the decoration on one of the nightstands 3. arrange the items on the nightstands to make them look aesthetically pleasing 4. turn on the table lamps to add lighting."
+        ],
+        "scan_id": "00800-TEEsavR23oF",
+        "room_id": "sub003-sub004-sub005-sub006-sub009"
+    },
+    {
+        "question": "### human: i want to decorate the room with the bed. i have done these things: 1. go to the room with the bed. what should i do next?",
+        "answers": [
+            "2. place the decoration on one of the nightstands."
+        ],
+        "scan_id": "00800-TEEsavR23oF",
+        "room_id": "sub003-sub004-sub005-sub006-sub009"
+    },
+    {
+        "question": "### human: i want to clean the room with mats. what should i do?",
+        "answers": [
+            "1. go to the room with mats. 2. lift each mat and shake it to remove dust. 3. vacuum the floor where the mats were. 4. replace the mats in their original positions. 5. wipe the range hood and towel area for cleanliness."
+        ],
+        "scan_id": "00800-TEEsavR23oF",
+        "room_id": "sub003-sub004-sub005-sub006-sub009"
+    },
+    {
+        "question": "### human: i want to clean the room with mats. i have done these things: 1. go to the room with mats 2. lift each mat and shake it to remove dust. 3. vacuum the floor where the mats were. what should i do next?",
+        "answers": [
+            "4. replace the mats in their original positions."
+        ],
+        "scan_id": "00800-TEEsavR23oF",
+        "room_id": "sub003-sub004-sub005-sub006-sub009"
+    },
+    {
+        "question": "### human: i want to add some greenery to the room with chairs. what should i do?",
+        "answers": [
+            "1. go to the room with chairs 2. place the potted plants on the cabinet. 3. arrange the chairs to ensure they don't obstruct the view of the potted plants."
+        ],
+        "scan_id": "00800-TEEsavR23oF",
+        "room_id": "sub003-sub004-sub005-sub006-sub009"
+    }
+]
