@@ -6,6 +6,15 @@
     <a href="https://lscenellm.github.io/Page/"><img src="https://img.shields.io/badge/project-page-0C7B34?logo=probot"></a>
 </p>
 
+## TODO List
+- [x] Release XR-Scene Datas
+- [ ] Release Env Prepare Code
+- [ ] Release All Other Datasets
+- [ ] Release Inference Code
+- [ ] Release Checkpoints
+- [ ] Release Training Code
+- [ ] Release Visualization Code
+
 ## 0. Overview
 We aim to address the issues of detail loss in sample-based methods and the high computational load associated with object-centric approaches. To balance computational resources with preserving scene details, we propose LSceneLLM, a hierarchical framework that first performs region-level modeling for large scenes, followed by a plug-and-play scene magnifier module to capture fine-grained details in focused regions. Experiments show that our method achieves remarkable results and surpasses existing methods on both large scene understanding and existing scene understanding benchmarks.
 
